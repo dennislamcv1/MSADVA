@@ -1,0 +1,6 @@
+Neighborhood,Latitude,Longitude,Population,Median_Age,Points_of_Interest,Month,Foot_Traffic
+Downtown,40.7128,-74.006,12000,34.2,"Park",2024-01,3500
+Midtown,40.7549,-73.984,8500,36.5,"Cafe",2024-01,2800
+Uptown,40.7769,-73.9765,9000,32.8,"Theater",2024-01,3000
+Westside,40.7282,-74.0018,11000,35.1,"Market",2024-01,3200
+Eastside,40.7306,-73.9352,9500,33.7,"Gallery",2024-01,2900

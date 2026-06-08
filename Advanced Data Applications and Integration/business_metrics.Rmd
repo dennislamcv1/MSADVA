@@ -1,0 +1,147 @@
+---
+title: "Dynamic Sales Report"
+author: "Coursera Learner"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    fig_caption: yes
+params: 
+  start_date: # <YOUR CODE HERE>
+  end_date: # <YOUR CODE HERE>
+  category: # <YOUR CODE HERE>
+  metric: # <YOUR CODE HERE>
+  sales: # <YOUR CODE HERE>
+
+---
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r}
+# Load required libraries
+# Required packages
+library(dplyr)         # For data filtering
+library(ggplot2)       # For plotting
+library(readr)         # For loading CSV
+library(knitr)         # For table output
+
+
+# Load and parse dataset
+business_data <- read_csv("business_metrics.csv")
+business_data$Date <- as.Date(business_data$date)
+
+head(business_data)
+
+```
+
+## Activity 1: Set Up Report Parameters
+
+### Steps:
+-  In the YAML header, define parameters for start_date, end_date, and department.
+- Use params$ to access them in your R code chunks.
+- Filter the dataset accordingly.
+
+#### Example:
+params:
+  start_date: !r as.Date("2024-01-01")
+  end_date: !r as.Date("2024-12-31")
+  department: "Sales"
+
+```{r}
+# filtered_data <- business_data %>%
+#   filter(date >= params$start_date,
+#          date <= params$end_date,
+#          department == params$department)
+```
+
+## Try it Out #1: You're helping the HR team analyze trends over spring and early summer.
+
+### Steps:
+- In the YAML header, set start_date to January 1, 2024, and end_date to March 31, 2024.
+- Set category to "Grocery".
+- Hint: Use `as.Date("YYYY-MM-DD")` to ensure dates are correctly formatted.
+
+```{r}
+# YOUR CODE HERE
+```
+
+
+## Activity 2: Add Metric Selection
+
+### Steps:
+- Add a metric parameter in the YAML.
+- Filter data using metric == params$metric.
+- Plot or summarize this subset.
+
+#### Example:
+params:
+  metric: "Revenue"
+
+```{r}
+# metric_data <- filtered_data %>%
+#   filter(metric == params$metric)
+```
+
+## Try it Out #1: Allow users to toggle the metric for KPI reporting.
+### Steps:
+- In the YAML header, define the metric parameter as either "sales".
+- Use params$sales inside your R code to filter the data accordingly to show data with sales greater than 3200.
+- Pass this filtered data into your summary and visualization logic.
+
+```{r}
+# YOUR CODE HERE
+```
+
+
+# Activity 3: Add Dynamic Text and Summary
+
+### Steps:
+-  Use inline R to insert selected metric, department, or date range.
+- Add summary statistics such as mean and total.
+
+#### Example:
+"This report focuses on the `r params$metric` metric between `r params$start_date` and `r params$end_date`."
+
+## Try it Out #1: Prepare a narrative summary for the Marketing team.
+### Steps:
+- Use inline R to insert the selected region,category, metric, and date range into the narrative.
+- Print the numeric values directly in the markdown section.
+
+```{r}
+# YOUR CODE HERE
+```
+
+
+# Activity 4: Add Conditional Sections
+
+## Steps:
+- Use if (params$metric == "Revenue") inside a code chunk.
+- Add plots or tables based on conditions.
+
+#### Example:
+```{r}
+# if (params$metric == "Revenue") {
+#   ggplot(metric_data, aes(x = date, y = value)) +
+#     geom_line()
+# }
+```
+
+### Try it Out #1: Generate a satisfaction-focused bar plot.
+### Steps:
+- Ensure params$metric is set to "sales" in your YAML.
+- Use if (params$metric == "sales") to conditionally render a plot.
+- Use ggplot2 to create a line plot for sales through time.
+
+```{r}
+# YOUR CODE HERE
+```
+
+## Optional: Knit your report to HTML and view it. To do this you can either:
+- Run `rmarkdown::render("business_metrics.Rmd")` in your R VSCode Terminal
+- Run the `Knit RMD` button in VSCode
+
+To view your final html document, right-click on `business_metrics.html` and select "Open with Live Server".
+This will open up your html file in your lab's internet browser. 

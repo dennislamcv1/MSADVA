@@ -1,0 +1,165 @@
+---
+title: "Interactive Sales Report"
+author: "Coursera Learner"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    fig_caption: yes
+params: 
+    category: "Toys" # Can be configured to different parameter
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Background Code
+
+The code below shows the associated libraries and loading of the datasets.
+This section also produces a simple boxplot for units sold per region.
+```{r}
+# Load required libraries
+library(dplyr)      # Data manipulation
+library(ggplot2)    # Static plots
+library(plotly)     # Interactive plotting
+library(DT)         # Interactive tables
+library(lubridate)  # Date handling
+library(readr)      # Reading data
+
+# Load and parse dataset
+sales_data <- read_csv("sales_data.csv")
+sales_data$Date <- as.Date(sales_data$date)
+
+```
+
+## Activity 1: Interactive Plots
+### Steps:
+- Use ggplot2 to create a basic plot
+- Wrap it with plotly::ggplotly()
+
+### Example
+```{r}
+# plot_qty <- ggplot(example_data, aes(x = location , y = sales)) +
+#   geom_boxplot() +
+#   labs(title = "Sales By location")  # Add context in title
+# ggplotly(plot_qty)  # Make plot interactive
+
+```
+
+This section shows how to create interactive plots.
+
+## Try it Out #1: Create a box plot of Units Sold over by Region and make it interactive.
+### Steps:
+- Use ggplot2 to plot Units_sold by Region
+- Use geom_boxplot to visualize distribution
+- Wrap the plot in ggplotly()
+
+```{r}
+# <YOUR CODE HERE>
+
+# plot_1 <-  # <YOUR CODE HERE> # Make plot interactive
+# print(plot_1)
+
+```
+
+## Activity 2: Interactive Tables
+### Steps:
+- Use DT::datatable() to convert a data frame
+- Add options like page length, search box, column formatting
+
+### Example:
+```{r}
+# summary_tbl <- example_data %>%
+#   group_by(location) %>%
+#   summarize(Average_Revenue = mean(sales, na.rm = TRUE))  # Safe averaging
+# datatable(summary_tbl)  # Render as interactive table
+
+```
+
+The code below shows the method to have interactive tables in an Rmarkdown file.
+
+## Try it Out #1: Display a summary table of revenue per Region.
+### Steps:
+- Group by region and summarize average revenue
+- Use datatable() to render it
+- Hint: Use dplyr::summarize() to get the mean.
+
+```{r}
+# <YOUR CODE HERE>
+
+```
+
+
+## Activity 3: Interactive Filters and Controls
+### Steps:
+- Use params in YAML or Shiny inputs like selectInput()
+- Filter data based on input values
+
+### Example
+```{r}
+# category_data <- example_data %>%
+#  filter(category == params$category)  # Use parameter for filtering
+
+# plot_a <- ggplot(category_data, aes(x = sales_date, y = sales)) +
+#   geom_line() +
+#   labs(title = paste("Sales Trend for", params$category))
+# print(plot_a)
+```
+
+## Try it Out #1: Let users choose a category to explore.
+
+## Steps:
+- Add a parameter called category in YAML
+- Filter data where Category == params$category
+- Plot or summarize the filtered result
+- Hint: Use unique(sales_data$Category) to see your options
+
+```{r}
+# <YOUR CODE HERE>
+
+# plot_2 <- # <YOUR CODE HERE>
+# print(plot_2)
+
+```
+
+# Activity 4: Validate and Optimize Interactions
+
+## Steps:
+- Check input validity (e.g., validate that the category exists)
+- Use conditional logic to avoid blank plots
+- Test layout, speed, and usability
+
+### Example:
+```{r}
+# if (nrow(category_data) > 0) {
+#   plot_b <- ggplot(category_data, aes(x = date, y = units_sold)) +
+#     geom_col(fill = "skyblue") +
+#     labs(title = paste("Units Sold for", params$category))
+#   print(plot_b)
+# } else {
+#   print("No records available for the selected category.")
+# }
+```
+
+## Try it Out #1: Add fallback behavior when filters return no results.
+## Steps:
+- Wrap your chart or table in an if statement
+- Print a message if the result is empty
+
+```{r}
+# <YOUR CODE HERE>
+
+# plot_3 <- # <YOUR CODE HERE>
+# print(plot_3)
+
+```
+
+## Optional: Knit your report to HTML and view it. To do this you can either:
+- Run `rmarkdown::render("retail.Rmd")` in your R VSCode Terminal
+- Run the `Knit RMD` button in VSCode
+
+To view your final html document, right-click on `retail.html` and select "Open with Live Server".
+This will open up your html file in your lab's internet browser. 

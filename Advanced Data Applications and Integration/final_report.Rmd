@@ -1,0 +1,64 @@
+# ================================================
+# Practice Challenge 2: Reproducible Reports with R Markdown
+# ================================================
+# Instructions for a new file: report.Rmd
+
+# YAML Header (copy this into your report.Rmd file)
+# ---
+# title: "Seattle Housing Market Analysis"
+# author: "Your Full Name"
+# date: "r Sys.Date()"
+# output: html_document
+# params:
+#   zipcode: # YOUR CODE HERE
+# ---
+
+# R Markdown Setup
+```{r setup, include=FALSE}
+library(tidyverse)
+library(plotly)
+library(DT)
+library(knitr)
+library(broom)
+library(lubridate)
+cleaned_house_data <- read_csv("cleaned_house_data.csv")
+```
+
+# Step 1: Generate two plots 
+# (scatter plots for sqft_living vs price and bedrooms vs price)
+```{r}
+# <YOUR CODE HERE>
+```
+
+# Step 2: Create and format one table for summarized price by zipcode
+```{r}
+# <YOUR CODE HERE>
+```
+
+# Step 3: Add narrative explanations (text chunks)
+```{r}
+# <YOUR CODE HERE>
+```
+
+# ================================================
+# Practice Challenge 3: Interactive and Dynamic Reporting
+# ================================================
+
+# Step 1: Create an interactive plot with ggplotly()
+```{r interactive_plot}
+plot2 <- # <YOUR CODE HERE>
+print(plot2)
+```
+# Step 2: Add an interactive DT table with summary by zipcode
+```{r interactive_table}
+# <YOUR CODE HERE>
+```
+
+# Step 4: Filter house_data based on zipcode parameter
+```{r filter_by_param}
+# <YOUR CODE HERE>
+
+```
+
+# Step 5: Knit report to HTML
+# < PERFORM IN TERMINAL >
