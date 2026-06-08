@@ -1,0 +1,21 @@
+Comment ID,Comment,Sentiment
+1,"""Absolutely love this new product! It's amazing.""",Positive
+2,"""This product is a game-changer. So impressed!""",Positive
+3,"""Not really a fan of the new design. It's too bulky.""",Negative
+4,"""The product is good, but the price is a bit high.""",Neutral
+5,"""Can't wait to try out this new product. Looks promising!""",Positive
+6,"""The battery life on this product is terrible.""",Negative
+7,"""The product works as advertised. No complaints here.""",Neutral
+8,"""This is the best product I've ever used. Highly recommend!""",Positive
+9,"""The customer service for this product is awful.""",Negative
+10,"""The product is okay, but it's nothing special.""",Neutral
+11,"""I'm so disappointed with this product. It doesn't work.""",Negative
+12,"""This product exceeded my expectations. I'm thrilled!""",Positive
+13,"""The product is decent, but there's room for improvement.""",Neutral
+14,"""I'm returning this product. It's not worth the money.""",Negative
+15,"""This product has made my life so much easier. Love it!""",Positive
+16,"""The product is fine, but I've seen better.""",Neutral
+17,"""I regret buying this product. It's a waste of money.""",Negative
+18,"""This product is a dream come true. I'm obsessed!""",Positive
+19,"""The product is alright, but it's not for me.""",Neutral
+20,"""I'm so frustrated with this product. It's a letdown.""",Negative

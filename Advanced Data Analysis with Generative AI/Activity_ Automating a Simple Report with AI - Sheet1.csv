@@ -1,0 +1,10 @@
+Campaign ID,Channel,Date,Impressions,Clicks,Conversions,Cost,Target Audience,Goal
+Campaign A,Social Media,2023-10-26,10000,500,20,500,Young Adults,Brand Awareness
+Campaign A,Search Engine,2023-10-26,8000,400,30,400,Professionals,Lead Generation
+Campaign A,Email,2023-10-26,5000,100,10,100,Existing Customers,Product Promotion
+Campaign B,Social Media,2023-10-27,12000,600,25,600,Families,Website Traffic
+Campaign B,Search Engine,2023-10-27,9000,450,35,450,All Demographics,Sales
+Campaign B,Email,2023-10-27,6000,120,12,120,Loyal Customers,Repeat Purchases
+Campaign C,Social Media,2023-10-28,15000,750,30,750,Teenagers,App Downloads
+Campaign C,Search Engine,2023-10-28,10000,500,40,500,Seniors,Online Registrations
+Campaign C,Email,2023-10-28,7000,140,15,140,Subscribers,Event Attendance

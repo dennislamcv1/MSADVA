@@ -1,0 +1,11 @@
+CustomerID,SubscriptionType,MonthlyRevenue,TotalUsageHours,NumDevices,LastLogin,SignUpDate,Gender,Age,Country,Churned
+1,Basic,9.99,10,1,2023-10-26,2023-01-15,Male,25,USA,0
+2,Premium,15.99,50,2,2023-11-15,2023-06-20,Female,35,Canada,0
+3,Family,24.99,100,3,2023-11-20,2023-09-10,Male,45,UK,1
+4,Basic,9.99,5,1,2023-10-10,2023-02-28,Female,22,USA,1
+5,Premium,15.99,75,3,2023-11-29,2023-05-05,Male,38,Canada,0
+6,Basic,9.99,15,2,2023-11-01,2023-07-12,Female,30,USA,0
+7,Family,24.99,120,4,2023-11-25,2023-08-01,Male,50,UK,0
+8,Premium,15.99,60,2,2023-11-18,2023-04-18,Male,42,Canada,1
+9,Basic,9.99,8,1,2023-10-20,2023-03-10,Female,28,USA,1
+10,Family,24.99,90,3,2023-11-05,2023-09-20,Female,37,UK,0
