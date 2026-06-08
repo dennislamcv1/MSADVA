@@ -1,0 +1,101 @@
+PatientID,Gender,Age,Smoker,Region,TreatmentGroup,BloodPressure,Cholesterol,BMI,RecoveryTime,SideEffects
+P001,Non-binary,32,No,North,Placebo,133.0,229.0,33.1,14.0,No
+P002,Male,48,No,West,Placebo,124.0,198.0,30.6,9.0,No
+P003,Non-binary,35,No,East,Drug A,128.0,192.0,28.0,12.0,No
+P004,Non-binary,41,No,West,Drug B,125.0,220.0,32.4,11.0,No
+P005,Male,32,Yes,South,Drug B,124.0,184.0,28.2,13.0,No
+P006,Male,59,No,North,Drug B,138.0,247.0,25.4,13.0,Yes
+P007,Non-binary,59,Yes,South,Placebo,134.0,234.0,32.6,15.0,No
+P008,Female,57,No,East,Drug A,123.0,201.0,29.6,10.0,No
+P009,Non-binary,29,No,South,Placebo,139.0,176.0,24.9,11.0,Yes
+P010,Non-binary,63,No,South,Placebo,133.0,237.0,27.4,9.0,Yes
+P011,Non-binary,52,No,East,Drug B,138.0,208.0,25.4,11.0,Yes
+P012,Non-binary,31,No,West,Placebo,136.0,235.0,23.9,13.0,Yes
+P013,Male,33,No,South,Drug B,122.0,178.0,30.8,14.0,Yes
+P014,Non-binary,32,Yes,West,Drug A,124.0,198.0,33.7,9.0,No
+P015,Female,36,No,South,Drug B,137.0,210.0,23.8,15.0,No
+P016,Male,58,No,West,Drug A,136.0,211.0,29.7,16.0,No
+P017,Female,57,No,East,Drug B,130.0,201.0,26.0,13.0,No
+P018,Female,47,No,South,Placebo,131.0,222.0,26.5,18.0,No
+P019,Female,48,Yes,East,Placebo,143.0,189.0,26.2,10.0,No
+P020,Female,61,No,South,Drug A,124.0,207.0,25.4,8.0,No
+P021,Male,59,No,East,Drug A,135.0,212.0,28.1,7.0,No
+P022,Male,64,No,East,Drug A,128.0,220.0,25.5,16.0,No
+P023,Female,46,Yes,South,Drug B,128.0,224.0,28.8,14.0,No
+P024,Female,51,No,South,Drug B,141.0,188.0,27.8,12.0,No
+P025,Male,59,No,South,Drug A,138.0,179.0,27.3,13.0,No
+P026,Male,25,No,North,Placebo,138.0,236.0,25.3,9.0,No
+P027,Male,59,No,West,Drug B,143.0,217.0,26.3,19.0,No
+P028,Non-binary,61,No,North,Drug B,130.0,195.0,30.3,12.0,No
+P029,Non-binary,38,No,North,Drug B,137.0,241.0,29.5,12.0,No
+P030,Non-binary,27,Yes,East,Drug A,127.0,212.0,25.1,14.0,Yes
+P031,Female,25,No,South,Drug A,133.0,234.0,28.3,13.0,No
+P032,Non-binary,29,No,West,Drug A,129.0,211.0,30.3,13.0,No
+P033,Female,50,Yes,East,Drug A,131.0,251.0,23.0,10.0,No
+P034,Female,38,Yes,North,Drug A,136.0,245.0,29.6,13.0,No
+P035,Non-binary,63,No,South,Placebo,122.0,205.0,26.0,18.0,No
+P036,Female,51,No,East,Placebo,151.0,229.0,29.7,16.0,Yes
+P037,Non-binary,33,Yes,South,Drug A,120.0,223.0,25.7,17.0,No
+P038,Non-binary,39,No,East,Drug B,118.0,237.0,22.6,10.0,No
+P039,Male,39,No,South,Drug A,142.0,191.0,23.1,9.0,No
+P040,Non-binary,50,No,North,Placebo,138.0,224.0,28.1,12.0,No
+P041,Male,37,No,West,Placebo,136.0,231.0,28.8,12.0,Yes
+P042,Non-binary,56,Yes,North,Drug B,136.0,175.0,25.3,15.0,No
+P043,Non-binary,63,Yes,West,Placebo,130.0,186.0,29.9,7.0,No
+P044,Male,56,No,South,Drug A,121.0,169.0,23.0,17.0,No
+P045,Male,28,No,East,Drug B,131.0,205.0,27.8,12.0,Yes
+P046,Non-binary,54,No,North,Drug A,123.0,224.0,24.4,11.0,No
+P047,Female,61,No,West,Drug A,140.0,240.0,26.0,9.0,Yes
+P048,Male,47,No,North,Drug B,129.0,211.0,28.1,7.0,No
+P049,Female,63,No,West,Drug A,122.0,243.0,25.4,14.0,Yes
+P050,Female,39,No,North,Placebo,127.0,182.0,26.8,12.0,No
+P051,Female,53,No,West,Drug A,134.0,176.0,31.0,8.0,No
+P052,Male,60,No,West,Drug B,124.0,209.0,26.3,8.0,No
+P053,Female,37,No,South,Drug B,122.0,218.0,30.5,11.0,No
+P054,Male,56,No,West,Drug B,132.0,209.0,24.6,17.0,No
+P055,Female,31,No,South,Drug A,132.0,169.0,29.6,11.0,Yes
+P056,Non-binary,46,No,West,Drug B,125.0,208.0,32.3,7.0,Yes
+P057,Non-binary,52,Yes,East,Drug B,125.0,184.0,20.6,11.0,Yes
+P058,Male,26,No,East,Drug A,132.0,223.0,25.6,11.0,No
+P059,Non-binary,30,No,East,Placebo,116.0,217.0,29.7,5.0,No
+P060,Non-binary,52,No,West,Drug A,116.0,191.0,27.4,12.0,No
+P061,Female,52,No,South,Drug B,123.0,200.0,29.1,11.0,No
+P062,Male,44,Yes,South,Drug B,128.0,189.0,26.2,14.0,No
+P063,Female,54,Yes,West,Drug A,133.0,209.0,28.3,18.0,Yes
+P064,Female,35,No,East,Placebo,145.0,229.0,27.5,15.0,No
+P065,Female,52,Yes,East,Drug B,139.0,190.0,31.5,11.0,No
+P066,Female,49,No,South,Drug B,128.0,220.0,28.8,9.0,No
+P067,Female,63,No,East,Drug B,130.0,199.0,29.0,20.0,No
+P068,Female,57,No,North,Drug A,120.0,194.0,26.8,12.0,Yes
+P069,Female,25,No,South,Drug B,130.0,208.0,26.5,12.0,Yes
+P070,Male,51,No,East,Placebo,127.0,189.0,26.7,12.0,No
+P071,Non-binary,37,No,South,Drug B,133.0,199.0,29.2,13.0,Yes
+P072,Female,27,No,North,Drug B,122.0,186.0,26.7,12.0,No
+P073,Female,63,Yes,South,Placebo,135.0,249.0,28.9,10.0,Yes
+P074,Female,30,No,South,Drug B,145.0,211.0,34.2,10.0,No
+P075,Female,32,No,South,Drug A,129.0,196.0,30.6,12.0,No
+P076,Female,51,No,South,Drug A,134.0,214.0,27.0,10.0,No
+P077,Female,33,No,North,Drug A,137.0,208.0,31.6,10.0,No
+P078,Non-binary,61,No,West,Placebo,126.0,206.0,26.8,12.0,No
+P079,Non-binary,57,No,South,Drug B,132.0,222.0,21.9,11.0,No
+P080,Female,48,No,South,Drug A,130.0,225.0,25.0,17.0,No
+P081,Non-binary,39,No,East,Placebo,131.0,199.0,22.4,5.0,No
+P082,Male,56,No,South,Drug B,122.0,198.0,26.9,15.0,No
+P083,Female,56,Yes,East,Placebo,130.0,204.0,28.1,16.0,No
+P084,Male,48,No,West,Drug A,135.0,164.0,33.0,6.0,Yes
+P085,Male,36,No,North,Drug A,145.0,180.0,29.0,11.0,Yes
+P086,Female,63,No,North,Drug A,140.0,237.0,27.3,11.0,No
+P087,Non-binary,26,Yes,West,Placebo,152.0,243.0,30.5,8.0,No
+P088,Male,27,No,North,Placebo,122.0,205.0,21.4,10.0,Yes
+P089,Female,61,No,West,Drug A,139.0,222.0,28.7,9.0,No
+P090,Male,41,Yes,West,Placebo,132.0,216.0,30.3,17.0,No
+P091,Male,26,No,West,Drug A,152.0,272.0,23.6,15.0,No
+P092,Male,26,No,North,Drug A,122.0,232.0,31.4,16.0,No
+P093,Male,52,No,East,Drug B,122.0,207.0,29.0,14.0,Yes
+P094,Non-binary,47,No,West,Placebo,124.0,191.0,26.8,9.0,Yes
+P095,Male,61,No,South,Drug A,109.0,178.0,29.9,10.0,No
+P096,Male,56,No,North,Drug A,125.0,214.0,34.8,13.0,No
+P097,Male,57,No,West,Placebo,122.0,195.0,28.5,8.0,No
+P098,Non-binary,25,Yes,West,Drug B,132.0,182.0,28.7,14.0,No
+P099,Male,43,No,South,Drug B,133.0,197.0,26.6,11.0,Yes
+P100,Male,26,Yes,East,Drug A,149.0,188.0,25.5,11.0,No

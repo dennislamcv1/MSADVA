@@ -1,0 +1,101 @@
+CustomerID,Gender,Age,Region,AccountType,EducationLevel,MonthlyIncome,CreditScore,InvestmentReturn,Defaulted
+C001,Male,60,North,Checking,PhD,5837.87,735.0,0.061,No
+C002,Non-binary,50,North,Investment,PhD,5472.18,628.0,0.0608,No
+C003,Female,50,South,Savings,PhD,6074.23,711.0,0.046,No
+C004,Female,37,West,Checking,High School,5762.21,627.0,0.0467,No
+C005,Female,31,North,Savings,Bachelor,6259.46,649.0,0.0319,No
+C006,Non-binary,51,West,Checking,PhD,4357.72,776.0,0.095,No
+C007,Male,46,South,Checking,High School,6580.87,670.0,0.0351,No
+C008,Non-binary,60,North,Savings,PhD,5237.12,691.0,0.0461,No
+C009,Non-binary,41,East,Checking,Master,7490.31,724.0,0.0456,No
+C010,Male,26,South,Checking,Bachelor,4172.97,705.0,0.0779,No
+C011,Male,22,East,Investment,Bachelor,7083.16,688.0,0.0541,No
+C012,Male,51,West,Checking,High School,5237.49,698.0,0.085,No
+C013,Female,24,West,Checking,High School,4218.3,800.0,0.0465,No
+C014,Male,35,South,Checking,Bachelor,4419.34,677.0,0.0656,No
+C015,Non-binary,51,West,Investment,PhD,4615.58,690.0,0.0433,No
+C016,Male,25,East,Savings,PhD,5509.0,733.0,0.1029,No
+C017,Non-binary,39,North,Investment,Master,5627.4,735.0,0.0362,No
+C018,Female,58,North,Investment,PhD,4311.56,739.0,0.0662,Yes
+C019,Non-binary,46,North,Savings,High School,4970.77,712.0,0.0727,Yes
+C020,Non-binary,22,South,Investment,High School,7570.72,623.0,0.0683,No
+C021,Male,36,West,Savings,PhD,7073.05,762.0,0.0563,No
+C022,Male,30,East,Investment,High School,5523.59,623.0,0.0574,No
+C023,Non-binary,36,West,Savings,Bachelor,5045.6,695.0,0.0609,No
+C024,Male,45,West,Checking,Bachelor,5144.04,642.0,0.0571,No
+C025,Female,25,West,Investment,PhD,5736.22,677.0,0.0793,No
+C026,Female,33,North,Investment,Bachelor,3772.65,696.0,0.1042,No
+C027,Male,58,East,Investment,Bachelor,4691.15,696.0,0.0489,No
+C028,Female,58,East,Investment,Master,2997.7,701.0,0.0326,No
+C029,Male,64,West,Checking,Master,5479.07,761.0,0.0582,No
+C030,Non-binary,27,North,Investment,Bachelor,5776.64,703.0,0.1116,No
+C031,Non-binary,60,North,Checking,PhD,4420.18,668.0,0.0439,No
+C032,Female,45,East,Checking,Master,6888.78,728.0,0.0928,No
+C033,Male,32,North,Checking,High School,3529.08,739.0,0.0936,No
+C034,Male,34,North,Checking,High School,3242.75,619.0,0.0489,Yes
+C035,Female,55,North,Savings,High School,5269.34,710.0,0.0714,No
+C036,Non-binary,46,South,Savings,PhD,6256.52,715.0,0.0926,No
+C037,Female,28,West,Investment,Bachelor,7020.71,665.0,0.0524,Yes
+C038,Non-binary,25,East,Savings,High School,4449.34,749.0,0.0559,No
+C039,Male,29,East,Savings,PhD,6294.42,672.0,0.0484,Yes
+C040,Non-binary,41,South,Investment,Master,4953.79,686.0,0.0397,No
+C041,Female,50,West,Investment,Bachelor,4792.85,671.0,0.047,No
+C042,Male,31,East,Investment,Master,6060.39,681.0,0.0355,No
+C043,Female,64,North,Savings,PhD,5782.79,625.0,0.0607,No
+C044,Female,55,East,Savings,High School,3108.33,608.0,0.0446,No
+C045,Non-binary,47,North,Investment,High School,6771.85,760.0,0.0647,No
+C046,Female,62,South,Checking,PhD,6656.11,638.0,0.0289,No
+C047,Non-binary,24,North,Investment,High School,4249.32,630.0,0.0666,No
+C048,Male,27,East,Checking,Bachelor,5474.96,572.0,0.0767,Yes
+C049,Non-binary,26,East,Checking,PhD,5592.84,648.0,0.0201,No
+C050,Male,26,East,Investment,Master,5312.81,614.0,0.0675,No
+C051,Non-binary,44,South,Investment,PhD,4339.63,762.0,0.0846,No
+C052,Female,30,South,Investment,Bachelor,4194.05,730.0,0.0358,No
+C053,Non-binary,56,West,Savings,Bachelor,4969.34,646.0,0.0935,No
+C054,Non-binary,41,East,Checking,PhD,6407.27,793.0,0.0684,No
+C055,Male,63,North,Savings,PhD,5652.32,729.0,0.0459,No
+C056,Female,56,South,Savings,High School,4555.26,664.0,0.0589,No
+C057,Non-binary,39,East,Investment,Bachelor,5926.04,555.0,0.0712,No
+C058,Female,38,East,Savings,PhD,1581.75,795.0,0.0615,No
+C059,Non-binary,45,South,Investment,PhD,6378.52,611.0,0.0708,No
+C060,Non-binary,24,West,Checking,Bachelor,2912.34,598.0,0.0416,No
+C061,Female,53,South,Investment,PhD,4565.07,731.0,0.0634,No
+C062,Non-binary,56,South,Savings,High School,3656.4,802.0,0.0317,No
+C063,Female,59,North,Savings,Bachelor,3446.38,749.0,0.0578,No
+C064,Non-binary,34,North,Investment,High School,6392.99,708.0,0.0419,No
+C065,Male,46,West,Investment,High School,4438.76,710.0,0.0453,No
+C066,Female,30,East,Savings,High School,5415.8,723.0,0.0847,Yes
+C067,Non-binary,25,South,Checking,High School,4943.7,718.0,0.0818,No
+C068,Non-binary,35,West,Checking,Bachelor,5572.45,694.0,0.0722,No
+C069,Male,58,North,Investment,High School,5092.19,685.0,0.0382,Yes
+C070,Female,55,South,Checking,High School,3460.41,677.0,0.0537,No
+C071,Non-binary,32,East,Savings,PhD,6195.52,642.0,0.0843,No
+C072,Male,62,North,Investment,Bachelor,4407.49,666.0,0.0628,No
+C073,Non-binary,24,North,Savings,Bachelor,3132.1,595.0,0.1064,No
+C074,Female,49,North,Savings,Master,4486.26,675.0,0.0679,No
+C075,Non-binary,50,West,Checking,Bachelor,6800.91,631.0,0.0638,Yes
+C076,Non-binary,30,East,Investment,Bachelor,6020.27,625.0,0.0538,No
+C077,Non-binary,24,South,Investment,Master,4581.62,689.0,0.0627,No
+C078,Non-binary,46,West,Checking,Bachelor,4580.89,750.0,0.057,No
+C079,Male,55,West,Savings,Bachelor,4614.04,726.0,0.0742,No
+C080,Male,33,West,Savings,Bachelor,7492.1,601.0,0.0791,No
+C081,Female,63,North,Savings,Bachelor,5458.32,631.0,0.0443,No
+C082,Male,30,East,Savings,Master,5516.05,727.0,0.0334,No
+C083,Male,36,West,Investment,Bachelor,6236.34,631.0,0.0233,No
+C084,Female,61,South,Investment,Bachelor,5286.55,669.0,0.0702,No
+C085,Male,46,East,Checking,Master,4689.15,708.0,0.0379,Yes
+C086,Male,26,South,Checking,PhD,4764.38,632.0,0.0169,No
+C087,Female,32,East,Investment,High School,4914.08,685.0,0.0678,No
+C088,Female,55,South,Investment,PhD,4955.33,613.0,0.1099,No
+C089,Female,45,North,Savings,Master,5873.16,650.0,0.0599,No
+C090,Non-binary,36,West,Savings,High School,5062.34,696.0,0.0768,No
+C091,Non-binary,59,South,Checking,Master,5879.17,600.0,0.0616,No
+C092,Female,29,East,Investment,Master,4903.14,702.0,0.058,No
+C093,Female,26,West,Checking,Bachelor,5094.36,679.0,0.0784,No
+C094,Female,47,West,Investment,High School,2602.16,708.0,0.0542,No
+C095,Non-binary,39,East,Savings,Bachelor,6099.59,691.0,0.0653,No
+C096,Non-binary,27,South,Checking,High School,5415.79,748.0,0.0664,No
+C097,Male,58,North,Checking,Master,6197.61,686.0,0.0466,No
+C098,Male,34,North,Investment,Master,1524.49,659.0,0.0798,No
+C099,Female,49,South,Savings,PhD,7506.05,686.0,0.0565,No
+C100,Non-binary,26,West,Checking,High School,4832.49,707.0,0.0449,No

@@ -1,0 +1,186 @@
+# ================================================
+# Final Project: Regression Model Development and Validation
+# ================================================
+
+# ================================================
+# Graded Challenge 1: Data Preparation & Exploration (25 points)
+# ================================================
+
+# Step 1: Load dependencies and dataset
+library(tidyverse)     # For data wrangling and visualization
+library(broom)         # For tidying model outputs
+library(car)           # For checking multicollinearity
+library(ggplot2)       # For plotting
+library(tibble)
+library(dplyr)
+
+# Load dataset as analyis_df
+analysis_df <- read_csv("regression_model_final.csv")
+
+# Step 2: Examine structure and summary statistics
+# YOUR CODE HERE
+str(analysis_df)  # Check structure and variable types
+summary(analysis_df)  # Get summary statistics for numerical columns
+
+# Step 3: Identify and remove missing values
+sum(is.na(analysis_df))  # Identify total missing values
+analysis_df <- drop_na(analysis_df)  # Remove rows with NA values
+
+# Step 4: Calculate mean and standard deviation for:
+# Income, Age, TotalSpend
+
+# Calculate mean of provided data
+mean_income <- mean(analysis_df$Income)
+mean_age <- mean(analysis_df$Age)
+mean_totalspend <- mean(analysis_df$TotalSpend)
+
+# Calculate standard deviations and store in the provided variables
+sd_income <- sd(analysis_df$Income)
+sd_age <- sd(analysis_df$Age)
+sd_totalspend <- sd(analysis_df$TotalSpend)
+
+# ================================================
+# Graded Challenge 2: Data Visualization with ggplot2 (25 points)
+# ================================================
+
+# Step 1: Create a histogram of TotalSpend and store in plot_1
+# - Fill color: skyblue
+# - Border color: black
+# - Bins: 30
+# - Title: "Distribution of Total Spend"
+# - X-axis: "Total Spend"
+# - Y-axis: "Number of Customers"
+
+# GRADED HISTOGRAM  1
+plot_1 <- ggplot(analysis_df, aes(x = TotalSpend)) +
+    geom_histogram(fill = "skyblue", color = "black", bins = 30) +
+    labs(title = "Distribution of Total Spend",
+       x = "Total Spend",
+       y = "Number of Customers")
+
+print(plot_1)
+
+
+# Step 2: Create a scatter plot of Income vs TotalSpend and store in plot_2.
+# - Color points by DeviceUsed
+# - Add a linear trend line using geom_smooth
+# - Title: "Income vs Total Spend by Device Used"
+
+# GRADED SCATTERPLOT 2
+plot_2 <- ggplot(analysis_df, aes(x = Income, y = TotalSpend, color = DeviceUsed)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "Income vs Total Spend by Device Used")
+
+print(plot_2)
+
+# Step 3: Insights and Recommendations
+# Describe 3–4 sentences about key findings
+# Provide 2 bullet-style recommendations
+
+# KEY FINDINGS:
+# Add your sentences here.
+
+# - Recommendation 1: YOUR COMMENT HERE
+# - Recommendation 2: YOUR COMMENT HERE
+
+
+# ================================================
+# Graded Challenge 3: Model Development (25 points)
+# ================================================
+
+# Step 1: Build a simple regression model: TotalSpend ~ Income
+
+model_simple <- lm(TotalSpend ~ Income, data = analysis_df)
+print(summary(model_simple))
+
+# Step 2: Report R-squared and interpret slope
+
+# Get R-Squared for model_simple and store in r_squared_simple
+r_squared_simple <- summary(model_simple)$r.squared
+cat("R-squared for the simple model:", r_squared_simple, "\n") 
+
+# Calculate slope and store in slope_simple
+slope_simple <- coef(model_simple)["Income"]
+cat("Slope for the simple model:", slope_simple, "\n")
+
+# ADD ANY INTERPRETATION IN COMMENTS
+
+# Step 3: Build a multiple regression model with:
+# Income, Age, PurchaseHistoryScore
+
+model_multi <- lm(TotalSpend ~ Income + Age + PurchaseHistoryScore, data = analysis_df)
+
+# Step 4: Use summary() and broom::glance() to evaluate model_multi
+
+# # Add summary here 
+summary <- summary(model_multi)
+print(summary)
+
+# # Add broom::glance() here
+broom_evaluation <- broom::glance(model_multi)
+print(broom_evaluation)
+
+# ================================================
+# Graded Challenge 4: Model Validation & Prediction (25 points)
+# ================================================
+
+# Pre-Requisites: Use the model created in Activity 3, model_multi
+# Fill in the blanks with your code below:
+
+# Step 1: Use diagnostic plots and vif() to evaluate assumptions using par() with c(2,2)
+
+par(mfrow = c(2, 2))
+plot_4 <- plot(model_multi)  # Use model_multi
+print(plot_4)
+
+# Store the VIF results
+vif_results <- vif(model_multi)
+print(vif_results)
+
+# Step 2: Check for normality using qqnorm(), qqline(), and shapiro.test()
+shapiro_result <- shapiro.test(residuals(model_multi)) # Store the result
+print(shapiro_result)
+
+qqnorm <- qqnorm(residuals(model_multi))
+qqline <- qqline(residuals(model_multi))
+
+# # Step 3: Predict TotalSpend for the 3 new customer profiles provided below:
+# - Customer 1: (Income = 55000, Age: 30, PurchaseHistoryScore: 60)
+# - Customer 2: (Income = 75000, Age: 45, PurchaseHistoryScore: 80)
+# - Customer 3: (Income = 95000, Age: 60, PurchaseHistoryScore: 90)
+
+new_profiles <- tibble(
+  Income = c(55000, 75000, 95000),
+  Age = c(30, 45, 60),
+  PurchaseHistoryScore = c(60, 80, 90)
+)
+
+# Step 4: Add prediction intervals for new_profiles and interpret results
+
+prediction_intervals <- predict(model_multi, newdata = new_profiles, interval = "prediction")
+print(prediction_intervals)
+
+# Step 5: Estimate likelihood of high spending behavior
+# Fill in the blanks with your code below
+
+# Part A: Create a binary variable 'HighSpender' where TotalSpend > 500 and store in analysis_df_final
+analysis_df_final <- analysis_df %>%
+  mutate(HighSpender = if_else(TotalSpend > 500, 1, 0))
+
+# Part B: Fit a logistic regression model predicting HighSpender from Age, Income, and PurchaseHistoryScore
+logistic_model <- glm(HighSpender ~ Income + Age + PurchaseHistoryScore, 
+                data = analysis_df_final, family = binomial)
+
+# Part C: Create a new tibble with a hypothetical customer profile provided below:
+# - Customer: (Income = 50000, Age: 40, PurchaseHistoryScore: 70)
+
+test_customer <- tibble(
+  Income = 50000,
+  Age = 40,
+  PurchaseHistoryScore = 70
+)
+# Part D: Use predict(..., type = "response") to estimate probability
+# Predict probability of high spending
+predicted_probability <- predict(logistic_model, newdata = test_customer, type = "response")
+print(predicted_probability)

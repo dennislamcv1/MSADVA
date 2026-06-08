@@ -1,0 +1,501 @@
+UserID,Region,PlanType,LoadTime,Satisfaction,SubmittedFeedback,BugReports
+user_1,Asia,Basic,2.26,95.00759790634311,Yes,1
+user_2,South America,Standard,3.57,88.50221742113493,Yes,5
+user_3,North America,Premium,3.17,76.5134786559214,Yes,0
+user_4,Asia,Standard,2.79,76.50742295681572,Yes,1
+user_5,Asia,Basic,3.32,76.78364948782617,No,1
+user_6,South America,Standard,4.14,100.0,No,0
+user_7,North America,Premium,3.09,83.81935452231554,No,1
+user_8,North America,Standard,3.12,84.3004164719107,Yes,2
+user_9,Asia,Standard,2.77,90.30283454031843,No,2
+user_10,Europe,Basic,2.58,82.38789159026514,No,0
+user_11,Asia,Standard,3.42,77.40957854179297,Yes,3
+user_12,Asia,Premium,2.57,78.03650150915021,No,0
+user_13,Asia,Basic,3.04,79.28398740585936,No,1
+user_14,Asia,Standard,2.76,79.62777763490159,Yes,1
+user_15,South America,Premium,3.24,87.2762954363698,No,4
+user_16,North America,Standard,3.17,80.519458858073,No,1
+user_17,South America,Standard,3.52,87.3264007721558,Yes,3
+user_18,South America,Standard,2.74,79.19283419891417,No,1
+user_19,South America,Standard,2.87,80.7863519031609,No,2
+user_20,Asia,Basic,2.51,60.01799315467892,No,2
+user_21,Europe,Premium,2.78,89.16327674702481,No,1
+user_22,North America,Premium,3.19,83.46488475897992,No,4
+user_23,Europe,Premium,3.38,89.98010109859652,No,0
+user_24,South America,Premium,2.54,51.03744621806311,No,1
+user_25,South America,Standard,3.43,100.0,Yes,1
+user_26,Europe,Standard,3.68,78.60410371844826,No,0
+user_27,Europe,Standard,3.21,91.08182816737516,No,1
+user_28,Europe,Standard,3.94,69.60094072874469,No,2
+user_29,South America,Standard,2.61,86.12773905062569,Yes,1
+user_30,South America,Standard,2.38,69.46584436826343,No,1
+user_31,North America,Premium,2.11,73.76231039304194,Yes,0
+user_32,North America,Standard,3.75,99.14031353866787,Yes,1
+user_33,South America,Standard,3.33,78.09317599236654,Yes,1
+user_34,Europe,Basic,2.97,82.17432873179723,Yes,1
+user_35,Europe,Standard,3.14,88.70067730688754,No,1
+user_36,North America,Basic,2.44,84.95681887972604,No,2
+user_37,South America,Standard,4.22,81.50418905143576,Yes,3
+user_38,North America,Standard,3.06,83.64961002466225,No,1
+user_39,North America,Basic,3.05,100.0,No,2
+user_40,Asia,Standard,3.36,79.42381202966415,No,2
+user_41,Asia,Basic,3.24,82.01099046714967,Yes,0
+user_42,Asia,Basic,3.11,90.50654396007612,No,6
+user_43,Europe,Premium,2.6,91.05525932957984,No,0
+user_44,South America,Standard,3.24,91.8703030556038,No,2
+user_45,South America,Basic,3.94,86.38730222029184,Yes,2
+user_46,South America,Standard,3.67,68.56995087269516,Yes,1
+user_47,South America,Standard,3.8,96.33431532301096,No,0
+user_48,Asia,Basic,2.74,68.53654606981311,No,1
+user_49,Europe,Standard,2.51,83.02635465239034,No,0
+user_50,Europe,Basic,2.94,72.45724149980641,No,4
+user_51,Asia,Basic,3.03,79.35861653407008,Yes,3
+user_52,Europe,Standard,3.55,83.2876241030348,No,2
+user_53,Asia,Standard,2.15,83.21357215450273,No,0
+user_54,South America,Standard,3.76,84.21920754235285,Yes,2
+user_55,Asia,Standard,2.92,96.13711269058646,No,2
+user_56,South America,Premium,2.79,84.5353430151398,No,0
+user_57,South America,Standard,2.49,77.55843364709351,Yes,2
+user_58,North America,Standard,2.17,89.64087168288357,No,0
+user_59,Asia,Standard,3.41,91.89470488924641,Yes,0
+user_60,North America,Basic,3.04,67.72392184863007,No,1
+user_61,Asia,Standard,2.36,85.97400069849859,No,1
+user_62,Asia,Basic,2.35,87.01172742310898,No,1
+user_63,North America,Basic,2.83,77.02436496640009,No,0
+user_64,North America,Premium,3.83,93.75706813311619,Yes,0
+user_65,Asia,Premium,2.87,78.49944412967473,No,1
+user_66,Europe,Standard,2.25,81.25576453471542,No,1
+user_67,South America,Standard,2.88,78.26928175716131,Yes,1
+user_68,North America,Basic,2.86,80.15579047581467,No,3
+user_69,South America,Basic,1.65,69.03724913104799,No,2
+user_70,Europe,Basic,2.97,65.59949117405705,Yes,2
+user_71,Europe,Standard,2.88,95.94505063224972,No,0
+user_72,Europe,Standard,3.35,71.53038651681672,No,2
+user_73,North America,Standard,3.92,70.08607650543692,Yes,1
+user_74,Europe,Basic,3.56,58.466098863962856,No,2
+user_75,North America,Premium,2.87,73.61038252310497,Yes,1
+user_76,Europe,Standard,2.45,66.76910206592501,Yes,0
+user_77,South America,Standard,4.29,96.4201516013637,Yes,1
+user_78,South America,Standard,3.03,90.09817089342634,No,2
+user_79,Asia,Standard,3.01,73.11849654822277,No,4
+user_80,South America,Basic,2.99,100.0,Yes,1
+user_81,Asia,Standard,3.1,89.81765486991594,No,1
+user_82,South America,Standard,2.93,76.75168616491378,No,2
+user_83,North America,Basic,2.71,55.005942851264265,Yes,0
+user_84,South America,Basic,2.73,100.0,No,6
+user_85,Asia,Basic,2.98,66.10427533236404,No,1
+user_86,Asia,Basic,2.73,63.546012530431085,No,0
+user_87,Europe,Premium,2.64,90.2257043200964,No,0
+user_88,North America,Standard,3.05,100.0,No,3
+user_89,South America,Standard,2.87,93.84272818510519,No,2
+user_90,Europe,Basic,3.75,85.6390912005236,No,1
+user_91,South America,Standard,1.67,85.94754341665286,No,2
+user_92,South America,Standard,3.55,88.53415558780307,Yes,3
+user_93,Europe,Basic,3.62,87.58928589786765,No,0
+user_94,Europe,Standard,1.96,82.81191423969376,No,0
+user_95,Europe,Standard,2.83,81.04201103951875,Yes,2
+user_96,Europe,Standard,2.81,79.37406872100478,Yes,2
+user_97,Europe,Standard,2.3,72.46035411133323,No,2
+user_98,South America,Basic,2.61,77.19324923133226,No,1
+user_99,Europe,Standard,2.44,63.07043185804615,No,2
+user_100,North America,Standard,3.88,79.0166037320525,No,0
+user_101,Asia,Standard,3.47,70.11408892849083,Yes,0
+user_102,Europe,Premium,3.64,68.96410682784229,No,1
+user_103,Europe,Standard,3.36,81.79894151153478,Yes,0
+user_104,South America,Basic,2.44,93.920022863446,No,4
+user_105,Europe,Basic,2.74,89.18316606002313,No,1
+user_106,Europe,Standard,3.24,64.29499396376823,No,5
+user_107,Europe,Basic,2.39,70.10371863429663,No,2
+user_108,South America,Standard,3.36,89.40771187988216,Yes,2
+user_109,Europe,Premium,2.88,70.1751260646169,No,7
+user_110,Asia,Standard,2.81,77.75366850002976,No,2
+user_111,South America,Standard,3.36,85.50052099024552,No,2
+user_112,Asia,Standard,3.22,70.31655545136366,Yes,2
+user_113,South America,Standard,2.82,81.0537550614596,No,0
+user_114,Europe,Standard,3.58,66.65974505081796,No,0
+user_115,Asia,Premium,2.46,73.98632356048786,Yes,2
+user_116,South America,Standard,3.31,83.19781934142537,Yes,1
+user_117,North America,Premium,3.3,64.0700626646833,No,2
+user_118,Europe,Premium,2.85,84.40474737960399,No,0
+user_119,South America,Basic,3.16,79.80362201073319,Yes,1
+user_120,North America,Basic,2.37,85.52489954417148,Yes,2
+user_121,South America,Basic,3.46,82.23914134064661,Yes,1
+user_122,North America,Basic,2.91,93.64140429973844,Yes,2
+user_123,Europe,Basic,2.74,81.25224502647907,No,2
+user_124,Asia,Standard,3.52,75.70594458874747,No,4
+user_125,North America,Basic,2.65,81.22297503032284,No,1
+user_126,South America,Standard,2.3,85.43298029036387,No,1
+user_127,Europe,Premium,2.22,80.48860070325705,Yes,1
+user_128,North America,Basic,3.3,80.40591691203882,No,0
+user_129,South America,Premium,2.36,72.98008312193245,No,1
+user_130,South America,Basic,3.88,73.37099082449052,No,1
+user_131,South America,Basic,1.96,65.97394728200307,No,0
+user_132,North America,Standard,3.85,97.4957674318694,Yes,0
+user_133,North America,Standard,3.11,67.56136764608715,No,0
+user_134,North America,Premium,2.95,73.07094802204092,Yes,3
+user_135,Asia,Standard,2.73,72.81592734430802,No,2
+user_136,North America,Premium,3.2,88.94924376944441,Yes,1
+user_137,North America,Basic,2.98,77.05050321707972,Yes,4
+user_138,North America,Basic,3.55,92.47742072673734,No,2
+user_139,Asia,Standard,3.06,73.26509375756132,Yes,0
+user_140,North America,Premium,3.08,82.78994162223802,No,1
+user_141,South America,Premium,2.82,71.64652946740243,Yes,2
+user_142,North America,Standard,2.97,100.0,No,0
+user_143,South America,Standard,3.15,68.12401580970487,No,0
+user_144,South America,Standard,2.14,83.09820710227028,No,2
+user_145,South America,Standard,2.33,86.33776880932099,Yes,3
+user_146,Asia,Premium,3.37,84.13799097451498,Yes,2
+user_147,Asia,Premium,3.09,78.14712341122292,Yes,2
+user_148,Asia,Standard,2.91,78.70179300266574,Yes,1
+user_149,North America,Standard,3.01,80.4381147197911,No,0
+user_150,South America,Standard,3.17,78.52997998371511,No,1
+user_151,Asia,Basic,2.73,89.6387911679491,No,1
+user_152,Asia,Premium,2.61,100.0,No,0
+user_153,North America,Standard,3.1,74.42508214992166,No,1
+user_154,Asia,Premium,2.51,66.30197020420923,No,1
+user_155,North America,Standard,3.2,79.11717951648745,Yes,1
+user_156,Europe,Premium,2.15,100.0,No,2
+user_157,Asia,Standard,3.51,71.9632543203027,No,3
+user_158,Europe,Basic,3.24,96.39116805444067,No,1
+user_159,North America,Premium,3.13,96.77700814076441,Yes,2
+user_160,South America,Basic,3.49,74.46411758292005,No,4
+user_161,Asia,Standard,3.83,85.68983079185276,No,2
+user_162,North America,Premium,3.51,96.28396623128538,No,0
+user_163,South America,Premium,2.08,76.20872259012513,No,2
+user_164,South America,Standard,2.36,77.96419639897638,Yes,3
+user_165,Europe,Standard,2.69,74.18319086051356,No,1
+user_166,North America,Standard,3.01,69.85243269307134,Yes,1
+user_167,South America,Basic,3.26,73.50722454933992,No,1
+user_168,Asia,Standard,2.64,67.76059733237743,Yes,2
+user_169,Asia,Standard,3.09,80.34083468259226,No,4
+user_170,Europe,Standard,2.62,72.30026768941359,No,4
+user_171,South America,Standard,2.69,82.33785911790747,Yes,1
+user_172,North America,Standard,2.3,64.44104353796372,No,1
+user_173,Asia,Basic,2.54,83.30880232214457,Yes,6
+user_174,South America,Standard,2.32,88.33528961608924,No,1
+user_175,South America,Basic,2.51,60.062643574285445,No,2
+user_176,Europe,Standard,3.53,83.74056569847572,No,0
+user_177,Asia,Standard,2.53,92.27668992473292,Yes,1
+user_178,Asia,Premium,4.32,67.90358981308795,No,3
+user_179,North America,Standard,3.25,96.72572386837703,No,4
+user_180,Asia,Basic,3.09,84.19019009366045,Yes,3
+user_181,North America,Basic,2.57,72.94988144241591,No,2
+user_182,Asia,Standard,3.35,79.44230922342294,Yes,0
+user_183,Europe,Standard,2.71,85.58326912521723,No,1
+user_184,Asia,Basic,3.06,80.76005391412411,Yes,1
+user_185,North America,Basic,4.28,85.38755992446369,No,3
+user_186,North America,Standard,2.95,70.79326406920634,No,4
+user_187,Europe,Basic,3.57,81.69360824036077,Yes,1
+user_188,Asia,Premium,2.65,65.8628550309502,Yes,1
+user_189,Asia,Standard,2.98,78.88773938651299,Yes,1
+user_190,Europe,Basic,3.89,70.9609235853521,No,1
+user_191,Asia,Basic,2.69,72.64470057410233,Yes,2
+user_192,Asia,Premium,3.91,92.36093175210438,No,2
+user_193,North America,Standard,3.35,90.9131012059427,Yes,2
+user_194,Asia,Standard,2.72,86.09138120907177,Yes,3
+user_195,Asia,Premium,3.32,69.07687235327421,No,1
+user_196,Europe,Premium,3.49,76.83591550305198,Yes,2
+user_197,Europe,Premium,3.31,92.13097699979184,No,1
+user_198,South America,Standard,2.21,81.41716913639905,No,2
+user_199,North America,Standard,2.64,100.0,No,1
+user_200,Asia,Basic,2.88,83.93317839394372,No,1
+user_201,Asia,Standard,2.96,81.92049116490031,No,2
+user_202,South America,Standard,3.31,76.908835357975,Yes,1
+user_203,Asia,Standard,3.09,81.33540904782282,Yes,1
+user_204,North America,Premium,2.33,78.47530163619456,Yes,0
+user_205,South America,Basic,3.19,87.0810867668859,No,1
+user_206,North America,Standard,3.31,89.56702316794585,Yes,1
+user_207,South America,Basic,3.28,72.14010539492051,No,2
+user_208,South America,Standard,3.54,66.68767046442221,No,0
+user_209,Europe,Basic,3.42,61.637946268967035,No,2
+user_210,North America,Basic,3.23,85.07991326912544,No,3
+user_211,Asia,Basic,2.96,68.96633393826127,Yes,0
+user_212,Asia,Standard,2.17,58.471094070475175,No,2
+user_213,North America,Standard,3.21,83.88578604530964,No,2
+user_214,Asia,Standard,3.1,100.0,Yes,1
+user_215,Asia,Premium,3.14,79.93929088460106,Yes,2
+user_216,North America,Standard,2.36,88.38490774451643,No,0
+user_217,South America,Basic,2.46,80.81829358547564,No,3
+user_218,North America,Premium,3.53,79.01110346808858,No,3
+user_219,South America,Basic,2.98,89.19076482987768,No,0
+user_220,Asia,Premium,3.34,77.09725455811349,No,1
+user_221,Asia,Basic,3.01,82.67392314071903,No,2
+user_222,Asia,Premium,3.01,83.21697806196013,No,1
+user_223,Europe,Basic,3.47,73.31909546356951,Yes,2
+user_224,South America,Premium,2.74,89.92042349536523,No,0
+user_225,Europe,Standard,3.05,78.25040243304592,No,1
+user_226,Europe,Premium,2.77,72.44254840507155,No,3
+user_227,North America,Basic,2.78,85.36509843570404,No,2
+user_228,Europe,Standard,2.85,71.01532018208962,No,3
+user_229,North America,Premium,3.11,80.28181157369129,No,1
+user_230,North America,Standard,2.76,79.90881003355797,No,0
+user_231,Europe,Standard,3.63,90.85895565831578,No,2
+user_232,South America,Standard,2.55,84.74698232879953,No,1
+user_233,South America,Standard,2.91,79.74973041254856,Yes,1
+user_234,South America,Standard,2.78,88.17766299200287,No,0
+user_235,South America,Standard,3.72,93.90207549017313,Yes,2
+user_236,South America,Premium,3.1,85.57810306351863,Yes,1
+user_237,Europe,Basic,3.52,80.10352619843381,No,6
+user_238,Europe,Basic,2.26,66.8816376764984,No,3
+user_239,Asia,Premium,3.13,69.34886336924627,No,0
+user_240,South America,Premium,3.44,76.94775295645333,No,2
+user_241,Europe,Standard,3.04,73.90487797840717,No,1
+user_242,Asia,Standard,3.53,78.13028697014553,No,2
+user_243,South America,Basic,2.74,80.56649924897107,No,3
+user_244,North America,Basic,3.7,85.2969275435673,Yes,2
+user_245,Asia,Standard,4.15,79.29501221940909,Yes,2
+user_246,Europe,Standard,2.82,84.86501643826202,Yes,2
+user_247,North America,Standard,2.78,80.6447441481012,No,0
+user_248,North America,Basic,3.73,60.24533433646128,Yes,1
+user_249,North America,Premium,3.79,70.60664606181246,Yes,0
+user_250,Asia,Premium,2.74,78.55912444278384,Yes,2
+user_251,Europe,Standard,2.79,67.90305257158893,No,2
+user_252,North America,Standard,2.86,85.99928729996205,Yes,1
+user_253,South America,Standard,2.33,95.30750832343698,No,0
+user_254,North America,Premium,2.54,92.18761851697317,Yes,0
+user_255,North America,Standard,2.5,77.86557129069791,No,0
+user_256,Asia,Basic,2.62,94.90726136849952,Yes,4
+user_257,Asia,Premium,2.98,81.48667457202112,Yes,1
+user_258,Europe,Premium,3.12,76.62914028881961,No,1
+user_259,South America,Premium,3.78,73.8659733645906,Yes,1
+user_260,Asia,Standard,2.5,76.97530313511872,Yes,3
+user_261,North America,Standard,3.49,76.11823181458772,Yes,3
+user_262,Europe,Standard,2.89,81.70416222375488,Yes,3
+user_263,North America,Premium,2.98,81.60573981049865,Yes,1
+user_264,North America,Premium,3.34,80.03046020153414,Yes,1
+user_265,Asia,Basic,2.44,84.3693816974635,No,5
+user_266,Europe,Basic,3.19,91.90646274786342,No,1
+user_267,South America,Standard,3.08,89.49554135441323,No,1
+user_268,South America,Premium,3.25,65.15102031550097,Yes,1
+user_269,Asia,Premium,3.14,54.46078865098045,No,0
+user_270,Asia,Basic,4.23,89.34319911239274,Yes,0
+user_271,Europe,Standard,2.68,66.33121301584579,Yes,0
+user_272,South America,Standard,2.73,77.75234598107316,No,3
+user_273,South America,Premium,2.69,68.2988697394064,Yes,0
+user_274,South America,Premium,2.72,61.9801956241998,Yes,0
+user_275,North America,Premium,2.68,85.41462728204787,No,0
+user_276,South America,Standard,3.59,87.59155160302647,No,1
+user_277,North America,Standard,3.71,74.2348959927328,No,1
+user_278,Europe,Basic,2.71,54.0895770785509,No,0
+user_279,North America,Basic,2.58,74.53755551747517,No,2
+user_280,Europe,Premium,3.24,83.91804005402547,Yes,0
+user_281,South America,Premium,2.72,65.21088431225871,Yes,1
+user_282,South America,Premium,3.32,81.83359919779156,Yes,0
+user_283,Europe,Premium,3.1,79.84690150827005,No,3
+user_284,Asia,Standard,2.24,85.79291499601088,No,2
+user_285,Europe,Standard,3.77,81.19580368414154,No,1
+user_286,Asia,Premium,3.9,70.26931059118445,No,1
+user_287,North America,Premium,2.69,91.96571501664491,No,3
+user_288,North America,Basic,2.81,78.4147042697303,Yes,1
+user_289,North America,Standard,3.14,79.72695460490068,No,1
+user_290,South America,Basic,3.17,70.66732040926804,No,1
+user_291,North America,Premium,3.33,75.5671774880849,No,2
+user_292,Asia,Standard,4.01,71.15197285973099,Yes,1
+user_293,North America,Basic,2.91,78.27053940076577,No,0
+user_294,Europe,Standard,2.6,97.11708480142343,Yes,1
+user_295,Europe,Standard,2.31,66.28098857068643,Yes,2
+user_296,South America,Standard,2.63,63.86438602123259,Yes,1
+user_297,Europe,Basic,2.98,94.71170327493608,No,0
+user_298,Asia,Standard,3.9,77.90676322848134,No,5
+user_299,North America,Standard,2.74,73.30927261340084,Yes,2
+user_300,South America,Standard,3.11,90.39904687396077,Yes,0
+user_301,North America,Standard,2.99,73.94384460263136,No,3
+user_302,North America,Premium,3.59,98.26009713546937,Yes,3
+user_303,Asia,Standard,4.26,86.7792587133927,Yes,0
+user_304,Europe,Standard,2.73,75.12088591854297,No,2
+user_305,Europe,Premium,2.76,100.0,No,1
+user_306,North America,Standard,3.52,73.94285076996661,Yes,1
+user_307,South America,Basic,3.34,87.42095372009307,Yes,2
+user_308,Europe,Basic,3.92,82.99292580406492,Yes,2
+user_309,South America,Standard,3.29,93.01741289398798,No,0
+user_310,Europe,Standard,2.82,95.61511196726853,No,1
+user_311,South America,Standard,3.3,80.32004149065767,No,0
+user_312,Asia,Basic,3.55,72.46582129653817,Yes,1
+user_313,South America,Basic,3.41,84.59972142939117,No,3
+user_314,Asia,Basic,3.25,73.22284630247894,Yes,0
+user_315,Asia,Standard,3.53,100.0,No,2
+user_316,South America,Standard,3.58,81.36535331082737,No,3
+user_317,Asia,Standard,3.69,76.34678448687892,No,4
+user_318,North America,Standard,3.32,81.84680305864909,No,1
+user_319,Asia,Premium,2.92,66.52873710470304,No,3
+user_320,Europe,Standard,3.07,70.28385961489349,Yes,0
+user_321,South America,Standard,3.6,92.00413907944426,No,5
+user_322,North America,Standard,2.59,73.43105721028604,Yes,3
+user_323,South America,Standard,3.18,69.53089017318061,No,2
+user_324,Europe,Standard,2.8,85.36652752527286,Yes,0
+user_325,Europe,Premium,3.01,91.85704154662997,Yes,1
+user_326,Europe,Premium,3.64,87.18953310665067,No,0
+user_327,Asia,Basic,3.1,89.96047685805816,Yes,2
+user_328,Asia,Premium,3.02,72.43204911430539,No,0
+user_329,South America,Standard,2.32,65.78189333258156,No,0
+user_330,South America,Basic,3.37,95.01333651955487,Yes,2
+user_331,North America,Standard,3.32,76.77320161157864,Yes,2
+user_332,North America,Premium,4.08,77.49166983544953,No,1
+user_333,South America,Standard,2.85,93.28194141849058,Yes,2
+user_334,Asia,Standard,3.11,85.5623000940066,No,1
+user_335,Europe,Standard,3.12,84.55887772081607,No,1
+user_336,South America,Basic,3.79,100.0,No,1
+user_337,North America,Basic,2.95,73.56481769619857,No,4
+user_338,Asia,Basic,3.14,89.27840128081237,No,0
+user_339,South America,Basic,3.3,80.57013124897084,No,2
+user_340,South America,Basic,3.09,82.68592278863257,Yes,0
+user_341,Asia,Basic,2.78,95.28468426412532,Yes,1
+user_342,South America,Standard,3.1,85.07835756289624,No,1
+user_343,Asia,Basic,3.54,85.38296079049633,No,1
+user_344,Europe,Standard,2.49,90.72507337309803,No,1
+user_345,Asia,Premium,3.07,76.35047270457115,No,5
+user_346,Asia,Standard,2.65,71.60790332660994,No,1
+user_347,Asia,Standard,3.6,69.55190805978967,No,1
+user_348,South America,Basic,2.24,60.33643410623998,No,0
+user_349,South America,Basic,2.72,100.0,Yes,3
+user_350,Asia,Basic,3.19,68.96791634278317,No,2
+user_351,South America,Basic,3.78,77.78746376414227,Yes,0
+user_352,North America,Basic,2.97,77.2318670011108,No,1
+user_353,North America,Basic,2.72,83.07406697809101,No,0
+user_354,South America,Basic,3.94,88.15737212539297,No,2
+user_355,South America,Basic,2.28,88.60473488359746,Yes,1
+user_356,Asia,Standard,1.9,74.16922561431062,Yes,1
+user_357,Europe,Basic,3.22,78.32878286213588,No,3
+user_358,South America,Standard,2.75,82.825799504883,Yes,3
+user_359,North America,Standard,2.49,77.51308873816453,No,4
+user_360,Asia,Standard,3.35,96.07345576019992,Yes,2
+user_361,South America,Basic,3.12,84.90974951638252,Yes,1
+user_362,North America,Standard,2.72,87.34877786049817,Yes,3
+user_363,North America,Standard,2.36,86.62881268667412,No,0
+user_364,Europe,Basic,3.44,91.73473857485325,No,5
+user_365,Asia,Premium,3.33,81.81021558703706,Yes,0
+user_366,Asia,Premium,2.95,67.03168052044154,Yes,2
+user_367,Europe,Basic,3.92,83.99687951752642,No,2
+user_368,Europe,Basic,2.46,73.4864310620817,Yes,3
+user_369,Asia,Premium,2.24,74.71383318250243,No,1
+user_370,Asia,Standard,2.65,85.86364018755093,No,2
+user_371,South America,Basic,2.98,92.38283071433636,Yes,2
+user_372,South America,Basic,3.12,80.21271576736062,Yes,1
+user_373,Europe,Standard,2.88,83.08833012598964,No,0
+user_374,South America,Standard,3.18,97.02214944635239,No,5
+user_375,North America,Standard,2.37,82.40753179488568,No,2
+user_376,South America,Standard,3.72,100.0,Yes,0
+user_377,South America,Standard,2.96,85.65509645631545,No,1
+user_378,North America,Standard,3.56,62.39237240844182,Yes,3
+user_379,Europe,Basic,3.17,87.53341621104532,No,0
+user_380,North America,Basic,3.23,83.81158384882778,No,0
+user_381,South America,Standard,3.28,92.89752754082745,Yes,1
+user_382,Europe,Premium,3.22,86.73181351269959,Yes,4
+user_383,South America,Standard,3.32,78.61544016016227,Yes,2
+user_384,North America,Standard,3.66,67.75701763710634,Yes,1
+user_385,North America,Basic,3.1,77.90976742713974,Yes,2
+user_386,South America,Standard,3.35,71.494795457907,Yes,4
+user_387,Asia,Standard,2.96,74.19476550195277,No,0
+user_388,Asia,Basic,3.72,85.88578404420609,No,1
+user_389,North America,Basic,2.66,96.69904504351406,Yes,4
+user_390,North America,Standard,3.9,83.9467152982298,No,1
+user_391,Asia,Basic,2.98,68.04116937964815,Yes,0
+user_392,Asia,Standard,2.28,84.4460266822014,No,1
+user_393,South America,Basic,3.06,91.96631486645651,Yes,1
+user_394,South America,Standard,2.66,73.90217095680617,No,0
+user_395,Asia,Basic,3.42,78.65982833327082,No,0
+user_396,South America,Premium,2.67,80.14688194729197,No,4
+user_397,South America,Standard,2.78,72.1510168691776,No,2
+user_398,Europe,Standard,2.06,86.4828043384386,Yes,1
+user_399,South America,Standard,2.77,78.79051851392218,No,1
+user_400,North America,Standard,1.79,84.19532443907028,Yes,1
+user_401,South America,Basic,2.21,71.125078221979,Yes,0
+user_402,South America,Standard,3.38,75.62541699676589,Yes,1
+user_403,Asia,Standard,3.39,87.22381357827771,No,2
+user_404,North America,Standard,3.21,76.27166847908234,Yes,0
+user_405,South America,Standard,2.52,97.26963851233405,No,1
+user_406,South America,Basic,2.98,76.00363814385398,No,2
+user_407,Europe,Basic,3.0,82.24684725751887,No,2
+user_408,South America,Standard,2.42,89.3259083187309,No,1
+user_409,South America,Standard,3.75,65.81634267066968,No,1
+user_410,Europe,Standard,3.44,62.39191188019224,Yes,1
+user_411,Asia,Standard,2.89,64.74343685429905,Yes,1
+user_412,South America,Premium,3.01,92.62584103427182,Yes,1
+user_413,Europe,Standard,3.1,74.48141854107553,Yes,3
+user_414,North America,Basic,1.98,100.0,Yes,2
+user_415,Asia,Basic,2.88,74.35752401342612,Yes,4
+user_416,North America,Basic,2.66,81.84551303197037,No,2
+user_417,North America,Basic,2.5,95.42109952567876,No,2
+user_418,Europe,Basic,2.86,100.0,Yes,2
+user_419,South America,Basic,3.9,100.0,No,2
+user_420,Europe,Basic,3.32,92.08366230593143,Yes,0
+user_421,Europe,Basic,2.71,90.24062525811462,No,1
+user_422,Europe,Premium,3.29,85.92526949201184,No,2
+user_423,Europe,Basic,3.7,87.78361076166638,No,1
+user_424,Asia,Standard,3.46,74.48814283671467,No,1
+user_425,South America,Standard,3.03,71.81801116577692,No,1
+user_426,North America,Premium,2.68,79.96625542589048,No,1
+user_427,North America,Basic,3.35,78.29815377475072,No,1
+user_428,South America,Standard,3.2,75.46771950672725,No,0
+user_429,North America,Premium,3.45,86.96387447456715,No,2
+user_430,South America,Premium,3.32,89.5530520857051,Yes,2
+user_431,North America,Premium,3.52,80.88406886291847,Yes,2
+user_432,Europe,Basic,2.73,94.77530081055262,Yes,0
+user_433,North America,Basic,3.66,68.58310885866496,No,3
+user_434,South America,Standard,3.1,78.06340540720282,No,1
+user_435,South America,Premium,4.04,72.83177679397195,Yes,0
+user_436,South America,Standard,2.66,61.3346338292694,No,1
+user_437,South America,Standard,3.87,79.17319314157301,No,1
+user_438,South America,Basic,3.1,78.78252491616716,No,4
+user_439,Asia,Standard,2.67,95.13449743242131,No,1
+user_440,Asia,Basic,2.76,86.30811684554777,No,0
+user_441,North America,Standard,2.84,69.75813175670795,Yes,2
+user_442,South America,Standard,3.21,98.54092566334188,No,1
+user_443,North America,Standard,3.26,92.21033695525352,Yes,1
+user_444,South America,Basic,2.71,85.82097703468615,No,1
+user_445,South America,Basic,2.99,77.73515901150168,Yes,1
+user_446,Asia,Standard,4.07,70.4056076327652,No,1
+user_447,Asia,Basic,3.86,76.27793223928947,No,3
+user_448,Europe,Standard,3.22,90.88748619704185,Yes,1
+user_449,Asia,Basic,3.02,98.84586305934609,No,0
+user_450,Europe,Standard,3.06,95.43243528272188,No,0
+user_451,Europe,Standard,3.31,75.11150578213726,No,1
+user_452,Europe,Basic,2.49,68.80382566710989,No,3
+user_453,Europe,Standard,2.87,81.40886246911204,No,0
+user_454,Europe,Basic,2.17,62.31560634437149,Yes,0
+user_455,North America,Basic,3.2,83.23167714184781,Yes,2
+user_456,Asia,Premium,3.32,78.52397413701331,Yes,0
+user_457,Europe,Standard,2.76,75.33963498131757,No,0
+user_458,South America,Premium,3.79,64.05296932733205,Yes,1
+user_459,Asia,Basic,2.39,85.13600106569717,No,0
+user_460,Asia,Standard,2.27,74.6729916033809,No,1
+user_461,Europe,Standard,3.11,68.30083164289712,No,1
+user_462,North America,Standard,3.52,51.2773778671835,No,0
+user_463,Europe,Standard,3.84,79.72485094949364,No,2
+user_464,North America,Standard,2.77,97.72251596669744,No,1
+user_465,South America,Standard,3.54,96.6125921454787,No,1
+user_466,Asia,Premium,2.98,75.42903743413729,No,3
+user_467,South America,Premium,2.91,73.97787939638219,No,0
+user_468,North America,Premium,3.44,84.68774256075024,No,0
+user_469,North America,Basic,3.33,70.01614560811709,Yes,3
+user_470,South America,Standard,2.21,83.01791899819466,Yes,1
+user_471,North America,Premium,3.74,87.6608027838469,No,3
+user_472,South America,Basic,3.69,92.26933223884308,No,2
+user_473,Asia,Basic,2.69,78.99845923520047,No,4
+user_474,South America,Standard,3.2,77.96326249823034,No,2
+user_475,Asia,Standard,3.25,71.2201741324344,Yes,4
+user_476,South America,Premium,3.13,71.73119645960139,No,1
+user_477,North America,Basic,2.72,77.73521108098473,No,1
+user_478,South America,Standard,2.66,83.67365506816178,No,3
+user_479,North America,Basic,2.99,89.13584626233249,No,2
+user_480,South America,Basic,3.59,71.96821049319655,No,0
+user_481,South America,Basic,3.27,94.92688568959522,Yes,0
+user_482,Europe,Premium,2.81,77.2887639895743,No,1
+user_483,North America,Standard,3.39,79.78632705651565,No,2
+user_484,Europe,Standard,1.58,72.52788320852177,No,1
+user_485,North America,Standard,3.57,55.75759739727059,No,3
+user_486,Europe,Premium,2.13,88.8404539636105,Yes,3
+user_487,Asia,Standard,2.82,87.36843897092433,Yes,0
+user_488,South America,Premium,2.44,77.18672442881787,Yes,0
+user_489,North America,Standard,2.35,80.66990717224871,No,2
+user_490,North America,Standard,3.58,85.159392177041,Yes,4
+user_491,South America,Standard,2.77,64.37454143113457,Yes,1
+user_492,North America,Standard,3.17,74.70947322653706,No,0
+user_493,North America,Standard,2.98,87.94264679621827,Yes,1
+user_494,Europe,Standard,3.24,67.45710576830751,No,1
+user_495,North America,Basic,3.04,82.9355793216663,No,2
+user_496,Asia,Premium,2.36,66.43418195376594,No,1
+user_497,Asia,Standard,3.5,84.66429982433526,Yes,2
+user_498,South America,Standard,2.75,79.64358517702516,Yes,0
+user_499,North America,Premium,2.22,63.848681840944906,No,2
+user_500,South America,Standard,2.79,91.64739354457171,No,4

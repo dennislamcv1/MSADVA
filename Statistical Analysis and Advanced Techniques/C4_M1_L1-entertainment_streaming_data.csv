@@ -1,0 +1,201 @@
+UserID,Region,Genre,Views,Rating,PromoStatus,WatchDate
+1,Asia,Action,17,3.9,No Promo,2024-01-10
+2,South America,Documentary,16,2.9,Promo,2024-06-06
+3,North America,Action,9,3.6,Promo,2024-06-01
+4,Asia,Drama,15,3.3,Promo,2024-04-12
+5,Asia,Documentary,17,4.7,No Promo,2024-03-24
+6,South America,Drama,18,3.8,Promo,2024-05-12
+7,North America,Documentary,13,3.8,No Promo,2024-03-05
+8,North America,Documentary,17,3.1,No Promo,2024-06-25
+9,Asia,Comedy,9,3.0,Promo,2024-01-03
+10,Europe,Drama,12,3.1,Promo,2024-06-21
+11,Asia,Action,21,3.9,Promo,2024-05-21
+12,Asia,Action,19,3.1,No Promo,2024-04-29
+13,Asia,Drama,16,3.8,Promo,2024-06-06
+14,Asia,Action,11,5.0,No Promo,2024-03-08
+15,South America,Action,12,4.4,No Promo,2024-05-25
+16,North America,Drama,17,3.2,Promo,2024-02-06
+17,South America,Documentary,21,4.7,Promo,2024-06-01
+18,South America,Drama,12,3.1,No Promo,2024-06-24
+19,South America,Documentary,20,1.5,No Promo,2024-06-29
+20,Asia,Action,11,2.5,No Promo,2024-03-13
+21,Europe,Action,22,1.6,Promo,2024-05-22
+22,North America,Action,16,3.1,No Promo,2024-02-18
+23,Europe,Comedy,10,3.5,Promo,2024-04-30
+24,South America,Documentary,20,5.0,No Promo,2024-03-28
+25,South America,Comedy,17,3.8,No Promo,2024-05-19
+26,Europe,Comedy,13,3.3,Promo,2024-02-06
+27,Europe,Drama,15,4.3,No Promo,2024-03-01
+28,Europe,Comedy,19,1.3,Promo,2024-06-19
+29,South America,Drama,17,3.7,Promo,2024-05-03
+30,South America,Drama,21,4.3,No Promo,2024-02-08
+31,North America,Comedy,13,2.0,Promo,2024-03-03
+32,North America,Documentary,16,4.6,Promo,2024-02-15
+33,South America,Documentary,15,3.8,No Promo,2024-03-28
+34,Europe,Documentary,12,3.1,Promo,2024-01-11
+35,Europe,Documentary,4,4.1,Promo,2024-03-02
+36,North America,Documentary,19,5.0,Promo,2024-03-17
+37,South America,Comedy,10,3.7,No Promo,2024-06-01
+38,North America,Comedy,18,3.7,Promo,2024-02-21
+39,North America,Action,16,3.0,No Promo,2024-01-04
+40,Asia,Documentary,7,2.7,No Promo,2024-02-28
+41,Asia,Comedy,15,4.3,Promo,2024-03-12
+42,Asia,Action,15,2.6,Promo,2024-05-27
+43,Europe,Documentary,19,3.6,Promo,2024-04-02
+44,South America,Drama,14,3.0,No Promo,2024-03-03
+45,South America,Action,19,4.0,Promo,2024-02-23
+46,South America,Comedy,14,3.8,Promo,2024-04-26
+47,South America,Drama,10,4.5,Promo,2024-04-19
+48,Asia,Drama,16,3.0,Promo,2024-03-14
+49,Europe,Drama,17,3.2,Promo,2024-04-16
+50,Europe,Action,16,2.5,No Promo,2024-02-26
+51,Asia,Comedy,14,3.1,No Promo,2024-06-17
+52,Europe,Drama,13,3.9,Promo,2024-01-03
+53,Asia,Documentary,6,4.3,Promo,2024-04-29
+54,South America,Drama,15,2.6,Promo,2024-01-06
+55,Asia,Drama,15,4.4,Promo,2024-01-05
+56,South America,Action,11,4.9,No Promo,2024-01-05
+57,South America,Action,14,3.9,Promo,2024-02-23
+58,North America,Comedy,17,5.0,No Promo,2024-02-16
+59,Asia,Documentary,13,2.7,No Promo,2024-06-25
+60,North America,Action,15,2.3,Promo,2024-01-09
+61,Asia,Drama,17,1.7,No Promo,2024-04-08
+62,Asia,Comedy,8,5.0,No Promo,2024-01-20
+63,North America,Drama,23,4.2,No Promo,2024-05-01
+64,North America,Drama,14,3.4,No Promo,2024-03-01
+65,Asia,Action,14,3.8,Promo,2024-05-02
+66,Europe,Comedy,23,2.4,Promo,2024-06-11
+67,South America,Documentary,11,5.0,No Promo,2024-06-26
+68,North America,Documentary,9,3.6,Promo,2024-03-22
+69,South America,Action,9,3.6,Promo,2024-03-02
+70,Europe,Action,8,4.2,Promo,2024-05-24
+71,Europe,Comedy,20,4.0,Promo,2024-01-03
+72,Europe,Documentary,19,3.7,Promo,2024-06-08
+73,North America,Documentary,16,2.7,No Promo,2024-01-13
+74,Europe,Documentary,12,4.0,Promo,2024-04-29
+75,North America,Drama,13,5.0,Promo,2024-05-04
+76,Europe,Documentary,13,4.8,Promo,2024-03-29
+77,South America,Drama,20,5.0,Promo,2024-03-13
+78,South America,Comedy,18,3.0,No Promo,2024-03-08
+79,Asia,Drama,15,2.5,No Promo,2024-05-21
+80,South America,Comedy,13,3.4,No Promo,2024-04-10
+81,Asia,Documentary,14,3.6,No Promo,2024-04-07
+82,South America,Documentary,21,4.6,Promo,2024-01-11
+83,North America,Comedy,13,1.8,No Promo,2024-04-14
+84,South America,Action,24,5.0,Promo,2024-03-07
+85,Asia,Comedy,16,3.3,Promo,2024-05-02
+86,Asia,Action,12,3.1,Promo,2024-01-29
+87,Europe,Drama,17,2.5,Promo,2024-05-16
+88,North America,Drama,9,1.8,Promo,2024-06-01
+89,South America,Drama,7,4.3,No Promo,2024-03-16
+90,Europe,Documentary,14,3.6,No Promo,2024-06-18
+91,South America,Drama,13,2.2,No Promo,2024-01-09
+92,South America,Action,10,2.2,No Promo,2024-02-09
+93,Europe,Drama,16,3.2,Promo,2024-01-25
+94,Europe,Comedy,17,5.0,No Promo,2024-01-05
+95,Europe,Comedy,13,3.2,Promo,2024-05-18
+96,Europe,Documentary,13,2.0,No Promo,2024-05-03
+97,Europe,Comedy,18,3.3,Promo,2024-02-07
+98,South America,Action,14,3.2,Promo,2024-03-12
+99,Europe,Drama,9,1.0,No Promo,2024-05-12
+100,North America,Documentary,7,3.4,Promo,2024-06-24
+101,Asia,Drama,9,3.3,Promo,2024-03-30
+102,Europe,Drama,18,4.2,No Promo,2024-05-25
+103,Europe,Action,25,5.0,Promo,2024-02-06
+104,South America,Comedy,8,4.6,No Promo,2024-02-29
+105,Europe,Comedy,16,3.2,No Promo,2024-06-24
+106,Europe,Drama,14,2.4,No Promo,2024-01-28
+107,Europe,Documentary,6,5.0,Promo,2024-03-21
+108,South America,Comedy,14,3.6,Promo,2024-04-23
+109,Europe,Documentary,12,3.5,Promo,2024-02-09
+110,Asia,Comedy,15,3.5,No Promo,2024-02-14
+111,South America,Documentary,16,3.7,Promo,2024-03-02
+112,Asia,Action,17,3.4,No Promo,2024-04-02
+113,South America,Documentary,13,2.9,No Promo,2024-04-24
+114,Europe,Action,17,3.0,Promo,2024-03-07
+115,Asia,Action,21,3.5,No Promo,2024-02-25
+116,South America,Documentary,23,3.0,Promo,2024-02-09
+117,North America,Action,16,2.8,Promo,2024-04-07
+118,Europe,Drama,22,3.6,Promo,2024-02-09
+119,South America,Action,6,3.2,Promo,2024-03-31
+120,North America,Comedy,13,5.0,Promo,2024-02-02
+121,South America,Documentary,16,1.0,No Promo,2024-01-06
+122,North America,Drama,19,4.6,No Promo,2024-05-26
+123,Europe,Documentary,14,4.7,No Promo,2024-03-20
+124,Asia,Comedy,20,1.4,Promo,2024-06-16
+125,North America,Comedy,14,3.2,Promo,2024-04-01
+126,South America,Comedy,24,3.1,Promo,2024-04-06
+127,Europe,Action,12,2.1,No Promo,2024-02-28
+128,North America,Action,16,2.7,Promo,2024-02-28
+129,South America,Documentary,9,2.4,No Promo,2024-02-17
+130,South America,Documentary,15,5.0,No Promo,2024-06-17
+131,South America,Drama,15,4.4,Promo,2024-01-13
+132,North America,Drama,16,4.8,Promo,2024-04-16
+133,North America,Documentary,20,4.2,No Promo,2024-02-14
+134,North America,Action,10,2.4,Promo,2024-03-29
+135,Asia,Comedy,18,3.0,No Promo,2024-06-29
+136,North America,Documentary,17,4.0,Promo,2024-06-18
+137,North America,Drama,10,2.3,Promo,2024-04-09
+138,North America,Action,13,4.2,No Promo,2024-06-03
+139,Asia,Documentary,14,3.3,Promo,2024-06-14
+140,North America,Documentary,21,3.1,No Promo,2024-01-07
+141,South America,Action,15,4.2,Promo,2024-05-12
+142,North America,Documentary,14,3.9,No Promo,2024-02-14
+143,South America,Action,15,3.1,No Promo,2024-02-27
+144,South America,Comedy,15,4.7,Promo,2024-01-31
+145,South America,Action,17,2.4,No Promo,2024-01-23
+146,Asia,Action,8,4.1,Promo,2024-06-18
+147,Asia,Action,10,4.1,Promo,2024-05-17
+148,Asia,Documentary,10,3.2,Promo,2024-06-08
+149,North America,Documentary,11,3.8,No Promo,2024-04-16
+150,South America,Action,21,2.2,No Promo,2024-06-29
+151,Asia,Documentary,17,4.4,Promo,2024-06-06
+152,Asia,Drama,11,3.3,Promo,2024-02-08
+153,North America,Drama,11,3.0,No Promo,2024-06-07
+154,Asia,Documentary,11,4.5,Promo,2024-03-22
+155,North America,Documentary,10,2.8,Promo,2024-04-09
+156,Europe,Action,11,2.1,No Promo,2024-01-02
+157,Asia,Comedy,15,1.9,Promo,2024-03-17
+158,Europe,Documentary,16,4.1,No Promo,2024-01-12
+159,North America,Drama,7,2.2,Promo,2024-02-08
+160,South America,Action,11,5.0,No Promo,2024-01-13
+161,Asia,Documentary,13,1.4,Promo,2024-02-15
+162,North America,Drama,16,5.0,Promo,2024-06-03
+163,South America,Drama,14,3.7,No Promo,2024-04-22
+164,South America,Comedy,15,3.4,Promo,2024-01-17
+165,Europe,Action,9,3.0,No Promo,2024-04-13
+166,North America,Action,15,3.9,Promo,2024-04-07
+167,South America,Comedy,12,3.5,No Promo,2024-03-28
+168,Asia,Comedy,11,4.6,No Promo,2024-04-18
+169,Asia,Action,10,3.6,No Promo,2024-06-11
+170,Europe,Action,16,3.7,No Promo,2024-03-10
+171,South America,Documentary,19,3.1,Promo,2024-06-06
+172,North America,Documentary,9,3.4,Promo,2024-03-14
+173,Asia,Comedy,16,3.8,No Promo,2024-03-03
+174,South America,Documentary,14,1.8,No Promo,2024-06-04
+175,South America,Drama,12,2.2,No Promo,2024-02-29
+176,Europe,Documentary,17,4.2,Promo,2024-03-19
+177,Asia,Documentary,16,3.7,Promo,2024-02-06
+178,Asia,Drama,9,3.3,Promo,2024-01-22
+179,North America,Comedy,12,3.5,Promo,2024-05-27
+180,Asia,Drama,11,3.8,No Promo,2024-04-05
+181,North America,Documentary,11,3.0,No Promo,2024-03-08
+182,Asia,Comedy,8,2.7,No Promo,2024-01-17
+183,Europe,Documentary,9,3.7,Promo,2024-01-12
+184,Asia,Drama,19,2.5,Promo,2024-05-29
+185,North America,Drama,11,3.9,Promo,2024-05-24
+186,North America,Documentary,22,1.8,No Promo,2024-05-17
+187,Europe,Action,16,4.5,No Promo,2024-04-27
+188,Asia,Action,18,4.0,Promo,2024-01-22
+189,Asia,Drama,13,3.8,No Promo,2024-04-29
+190,Europe,Drama,15,4.5,Promo,2024-02-19
+191,Asia,Action,9,5.0,Promo,2024-01-14
+192,Asia,Action,12,4.5,No Promo,2024-06-23
+193,North America,Documentary,10,1.7,Promo,2024-01-29
+194,Asia,Documentary,15,2.2,No Promo,2024-06-12
+195,Asia,Action,13,2.9,Promo,2024-06-28
+196,Europe,Documentary,13,3.5,No Promo,2024-05-04
+197,Europe,Documentary,12,4.0,No Promo,2024-01-07
+198,South America,Comedy,18,2.8,No Promo,2024-01-29
+199,North America,Documentary,15,3.7,Promo,2024-05-18
+200,Asia,Drama,13,2.7,Promo,2024-02-02

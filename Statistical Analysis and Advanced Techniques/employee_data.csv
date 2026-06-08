@@ -1,0 +1,151 @@
+EmployeeID,Gender,Age,Department,EducationLevel,YearsExperience,MonthlySalary,PerformanceRating,PromotedLast2Years,RemoteWork
+E001,Male,46,Engineering,Master,6.1,6475.41,1,Yes,No
+E002,Male,58,Sales,Master,10.7,8851.4,3,Yes,No
+E003,Female,29,HR,High School,6.7,4746.07,3,Yes,No
+E004,Female,37,HR,Master,5.3,5845.68,4,No,No
+E005,Female,29,Engineering,Master,9.9,7197.38,3,No,No
+E006,Male,22,HR,PhD,4,5706.21,4,Yes,No
+E007,Non-binary,26,HR,PhD,7.1,5144.78,1,No,Yes
+E008,Non-binary,24,Engineering,Bachelor,5.6,6927.73,2,No,No
+E009,Female,22,Marketing,PhD,6.7,8003.71,5,Yes,No
+E010,Non-binary,25,Marketing,PhD,9.7,5788.75,4,No,Yes
+E011,Female,56,HR,PhD,5.6,5747.12,2,No,No
+E012,Male,53,Marketing,PhD,7.2,5028.47,4,No,Yes
+E013,Non-binary,55,Marketing,High School,6,5556.03,2,No,No
+E014,Male,46,HR,PhD,13.8,7625.41,3,Yes,Yes
+E015,Non-binary,31,Marketing,High School,9.4,6121.59,2,No,No
+E016,Male,42,HR,High School,8.9,4792.51,4,No,No
+E017,Non-binary,48,Sales,PhD,10.7,6393.54,4,No,No
+E018,Male,48,Engineering,Master,5.6,7576.79,2,No,No
+E019,Male,23,Engineering,High School,11.4,5157.17,5,No,Yes
+E020,Non-binary,34,Marketing,Master,9.4,4007.09,3,No,No
+E021,Male,30,Marketing,Master,1.8,9286.24,2,No,Yes
+E022,Male,57,Marketing,PhD,2.3,3932.21,2,No,No
+E023,Male,43,Engineering,Bachelor,5.7,5461.47,2,No,No
+E024,Non-binary,47,Sales,PhD,2.7,6348.19,1,No,No
+E025,Non-binary,33,Sales,Bachelor,7,5591.36,3,Yes,No
+E026,Male,38,Engineering,Bachelor,3.9,5887.63,4,Yes,No
+E027,Male,35,Sales,PhD,7.6,6865.26,3,Yes,No
+E028,Non-binary,35,Engineering,PhD,13.6,2500,2,No,No
+E029,Non-binary,55,Sales,Bachelor,7.8,4099.66,1,No,No
+E030,Male,41,HR,PhD,6.8,6066.39,2,No,Yes
+E031,Male,32,HR,Bachelor,9.6,5393.67,3,No,Yes
+E032,Male,37,Engineering,Master,5.2,6194.12,4,No,Yes
+E033,Female,52,Sales,PhD,11.4,6341.48,2,Yes,No
+E034,Non-binary,27,Marketing,Master,10,2826.12,4,No,Yes
+E035,Female,40,Sales,High School,8.2,7910.46,5,No,No
+E036,Non-binary,58,HR,Master,8.6,5252.6,3,No,Yes
+E037,Non-binary,25,HR,Master,16.2,4701.73,4,Yes,Yes
+E038,Non-binary,25,Sales,Bachelor,11.8,6312.53,3,No,No
+E039,Non-binary,41,Sales,Master,16.8,6160.74,4,No,No
+E040,Non-binary,31,Marketing,PhD,10.1,7795.04,3,No,Yes
+E041,Non-binary,45,Marketing,Bachelor,2.1,6407.81,3,No,No
+E042,Non-binary,56,Sales,High School,7,7737.17,2,No,Yes
+E043,Female,47,Sales,PhD,1.2,4592.73,3,Yes,No
+E044,Male,58,Sales,High School,10.1,6212.79,2,No,No
+E045,Male,59,Sales,Master,11,4327.88,3,No,Yes
+E046,Female,42,Engineering,PhD,4.5,6146.51,2,No,No
+E047,Female,42,Sales,PhD,5.4,5828.57,5,No,No
+E048,Female,31,Marketing,High School,8.6,5764.05,4,No,No
+E049,Female,59,HR,PhD,3.2,5777.21,3,Yes,Yes
+E050,Non-binary,25,Engineering,PhD,2.9,7104.58,2,No,Yes
+E051,Male,41,Sales,PhD,13,3588.96,5,No,No
+E052,Non-binary,38,HR,Master,8.5,4650.32,4,No,Yes
+E053,Male,28,Engineering,High School,5.8,5939.14,4,Yes,No
+E054,Male,25,HR,PhD,1.2,4232.01,2,No,No
+E055,Female,50,Sales,Bachelor,11.4,6069.17,3,No,No
+E056,Non-binary,35,Sales,Bachelor,5.3,5923.72,2,No,Yes
+E057,Female,24,Marketing,Bachelor,15.4,3894.37,2,No,Yes
+E058,Non-binary,45,Sales,Bachelor,11.4,3820.25,4,No,No
+E059,Male,58,Sales,Master,4.8,2500,4,No,Yes
+E060,Female,37,Engineering,PhD,5.1,4168.99,3,Yes,Yes
+E061,Female,25,Marketing,High School,14.9,6021.48,5,No,Yes
+E062,Male,45,Engineering,PhD,7.7,6234.28,3,No,No
+E063,Male,55,HR,Master,5.9,6302.85,3,No,No
+E064,Male,51,Sales,Bachelor,8.1,4833.12,3,No,Yes
+E065,Female,39,HR,Master,5.9,5972.54,5,Yes,Yes
+E066,Non-binary,40,Engineering,PhD,9,6595.87,1,Yes,Yes
+E067,Female,52,Sales,High School,7.7,4097.95,5,No,No
+E068,Non-binary,40,Sales,Master,11.5,6184.99,4,No,No
+E069,Female,40,Engineering,High School,6.4,6984.72,2,No,No
+E070,Female,43,Engineering,Master,4.5,5263.84,3,No,No
+E071,Male,45,Engineering,High School,6.6,7593.35,5,No,No
+E072,Non-binary,33,Engineering,High School,6.6,5298.85,3,No,No
+E073,Female,51,Engineering,Bachelor,7.7,4709.91,5,No,No
+E074,Female,59,Sales,High School,10.5,6835.26,5,No,Yes
+E075,Male,52,Engineering,Bachelor,10.3,9049.94,3,No,Yes
+E076,Male,57,Sales,PhD,12.8,6128.03,3,No,Yes
+E077,Non-binary,40,Sales,PhD,4.8,6952.36,5,Yes,Yes
+E078,Female,57,Engineering,Bachelor,9.6,5236.92,4,No,No
+E079,Non-binary,51,Engineering,Bachelor,10.9,4137.58,2,No,No
+E080,Female,54,Marketing,Master,5.3,6249.4,1,No,Yes
+E081,Non-binary,39,Sales,Master,7.2,6486.6,3,No,No
+E082,Male,49,Engineering,Master,1,5463.13,5,No,No
+E083,Female,32,Engineering,PhD,11.6,6946.58,4,No,Yes
+E084,Non-binary,54,Engineering,Master,7.1,5018.88,4,Yes,Yes
+E085,Male,38,Marketing,High School,11.2,4646.87,2,No,No
+E086,Male,27,Marketing,High School,8.8,7590.96,2,No,No
+E087,Non-binary,25,HR,Master,7.3,7598.02,5,No,Yes
+E088,Female,41,Sales,High School,1.6,5048.49,2,No,Yes
+E089,Female,48,HR,PhD,2.3,8578.28,2,Yes,No
+E090,Male,36,Engineering,High School,0.5,5569.34,2,No,Yes
+E091,Female,27,Marketing,PhD,5.7,6127.17,4,No,No
+E092,Female,35,Marketing,Bachelor,17.1,5873.02,5,No,No
+E093,Female,32,HR,Bachelor,2.8,6785.64,2,No,Yes
+E094,Male,30,Marketing,Bachelor,0.5,6407.13,3,No,No
+E095,Non-binary,47,Engineering,Bachelor,11.9,6386.94,4,Yes,No
+E096,Female,37,Marketing,High School,17.5,4470.66,5,No,Yes
+E097,Male,26,HR,Master,9.2,3467.16,2,No,No
+E098,Male,31,Engineering,High School,9.2,7713.24,3,Yes,No
+E099,Non-binary,24,HR,PhD,6.8,5181.83,3,Yes,No
+E100,Female,34,Marketing,High School,0.8,5926.45,5,Yes,Yes
+E101,Female,51,HR,High School,2.2,6490.2,3,Yes,No
+E102,Non-binary,27,HR,PhD,6.7,8443.51,2,No,No
+E103,Non-binary,38,Sales,Bachelor,6,6242.04,4,No,Yes
+E104,Male,40,Marketing,Bachelor,7.5,5407.8,4,No,Yes
+E105,Male,56,Marketing,Bachelor,11.3,5214.68,1,No,Yes
+E106,Non-binary,47,HR,Master,5.7,5943.96,5,No,No
+E107,Female,26,Sales,PhD,11.4,4635.95,2,No,Yes
+E108,Male,50,Marketing,PhD,5.7,6043.31,3,No,Yes
+E109,Male,58,Engineering,High School,12.2,5921.97,3,No,No
+E110,Female,41,HR,Master,8.3,8462.29,4,No,Yes
+E111,Male,42,Marketing,Bachelor,6.3,5874.6,3,No,Yes
+E112,Female,31,Engineering,Master,8.3,3113.27,5,No,Yes
+E113,Female,26,Marketing,PhD,6.8,10010.27,4,Yes,Yes
+E114,Female,57,Engineering,PhD,8.5,7435.25,4,No,Yes
+E115,Non-binary,27,HR,High School,11,9123.52,4,No,No
+E116,Non-binary,47,Marketing,High School,7.7,4264.02,4,No,Yes
+E117,Non-binary,25,Marketing,PhD,6.5,5667.26,1,No,Yes
+E118,Female,56,Sales,Bachelor,3.5,7011.6,3,No,No
+E119,Female,22,HR,Bachelor,10.3,6804.59,5,No,No
+E120,Non-binary,45,Engineering,Master,9.4,6460.41,2,No,No
+E121,Male,57,Marketing,PhD,3.3,2700.58,4,No,No
+E122,Female,27,Marketing,PhD,11.3,3431.34,5,No,Yes
+E123,Male,52,Engineering,Bachelor,3.2,8276.28,1,No,No
+E124,Male,41,HR,Bachelor,12.1,8542.99,4,No,No
+E125,Female,45,Sales,PhD,10.8,5840.02,3,Yes,Yes
+E126,Female,46,Sales,High School,9.7,8085.64,3,No,No
+E127,Male,57,Marketing,PhD,6.5,4465.16,1,Yes,Yes
+E128,Male,42,Engineering,PhD,10.3,4808.36,1,No,No
+E129,Non-binary,51,Marketing,Bachelor,12.3,4346.58,4,No,Yes
+E130,Non-binary,45,Engineering,Bachelor,10.4,4725.12,4,Yes,No
+E131,Female,51,Sales,High School,5.3,7084.04,4,Yes,No
+E132,Non-binary,43,HR,High School,9.1,4706.47,3,No,No
+E133,Non-binary,49,Engineering,Master,12.5,9359.61,1,No,Yes
+E134,Non-binary,28,Sales,PhD,16.8,6690.11,4,Yes,No
+E135,Non-binary,56,Marketing,Bachelor,7.2,7626.79,2,No,No
+E136,Male,49,Engineering,High School,11.4,6734.91,5,Yes,No
+E137,Female,35,HR,Master,12.5,7821.4,4,No,No
+E138,Non-binary,31,Marketing,Master,4.8,4698,4,No,No
+E139,Male,37,Marketing,Bachelor,15.1,8170.4,5,No,No
+E140,Male,37,Sales,Bachelor,3.7,6211.41,1,No,Yes
+E141,Male,52,Engineering,Master,11.2,7813.9,4,No,No
+E142,Non-binary,46,Marketing,High School,9.2,3840.65,3,No,Yes
+E143,Non-binary,34,HR,Master,8.2,6270.87,5,Yes,No
+E144,Female,27,Engineering,PhD,18.2,6217.86,2,Yes,No
+E145,Non-binary,30,HR,PhD,6.8,5071.15,4,Yes,No
+E146,Non-binary,57,Marketing,Bachelor,6.7,6469.68,5,No,Yes
+E147,Male,41,HR,High School,13.3,8309.41,1,Yes,No
+E148,Female,39,Sales,High School,11,4955.77,3,No,No
+E149,Non-binary,42,HR,PhD,13.1,7442.78,4,No,No
+E150,Non-binary,25,Engineering,Master,8.5,4308.87,3,No,No

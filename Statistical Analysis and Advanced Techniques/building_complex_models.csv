@@ -1,0 +1,201 @@
+ClientID,Age,Income,Education,MaritalStatus,PriorDefaults,CreditUtilization,Defaulted
+CL001,29,29366.0,Bachelor,Single,0,0.63,0
+CL002,57,49896.0,Master,Married,1,0.91,1
+CL003,66,54069.0,High School,Married,0,0.21,0
+CL004,69,90147.0,Bachelor,Married,0,0.67,1
+CL005,69,55054.0,Bachelor,Married,0,0.08,0
+CL006,26,20378.0,Bachelor,Married,1,0.6,0
+CL007,34,24020.0,Master,Married,0,0.16,0
+CL008,37,60613.0,Bachelor,Married,1,0.74,0
+CL009,37,71048.0,Bachelor,Single,1,0.3,1
+CL010,60,66758.0,High School,Married,0,0.46,0
+CL011,43,63016.0,PhD,Single,1,0.6,1
+CL012,21,80921.0,Bachelor,Single,0,0.17,0
+CL013,59,50287.0,Master,Married,0,0.74,0
+CL014,39,76108.0,High School,Married,0,0.3,1
+CL015,53,30624.0,High School,Single,0,0.66,0
+CL016,62,43711.0,Bachelor,Married,2,0.16,0
+CL017,45,27473.0,Master,Married,0,0.69,0
+CL018,26,55053.0,Bachelor,Married,0,0.13,0
+CL019,57,59167.0,PhD,Single,0,0.43,1
+CL020,49,62054.0,Bachelor,Married,0,0.25,1
+CL021,61,61114.0,Bachelor,Single,0,0.75,1
+CL022,24,43304.0,High School,Married,1,0.26,0
+CL023,30,56576.0,Master,Single,0,0.88,0
+CL024,20,33046.0,High School,Single,0,0.89,0
+CL025,53,84538.0,Master,Married,1,0.2,1
+CL026,20,54535.0,PhD,Married,1,0.61,0
+CL027,38,51200.0,PhD,Single,1,0.09,1
+CL028,21,88601.0,Bachelor,Single,1,0.39,1
+CL029,40,37640.0,Bachelor,Married,0,0.71,0
+CL030,39,39739.0,Master,Single,0,0.66,1
+CL031,42,40268.0,High School,Married,1,0.62,0
+CL032,40,58778.0,Bachelor,Single,1,0.28,0
+CL033,43,67769.0,High School,Single,0,0.38,0
+CL034,23,73314.0,Bachelor,Single,0,0.1,0
+CL035,31,106296.0,High School,Married,0,0.72,0
+CL036,41,19510.0,High School,Single,0,0.5,1
+CL037,39,70957.0,Bachelor,Single,0,0.71,1
+CL038,37,49972.0,Bachelor,Married,1,0.25,0
+CL039,20,49445.0,Bachelor,Married,1,0.32,1
+CL040,49,48844.0,High School,Single,1,0.33,0
+CL041,52,43642.0,Bachelor,Married,0,0.03,0
+CL042,43,90321.0,High School,Married,0,0.34,1
+CL043,33,75161.0,Bachelor,Single,0,0.8,0
+CL044,55,60418.0,Bachelor,Single,1,0.9,1
+CL045,24,84318.0,Bachelor,Married,0,0.52,1
+CL046,30,32774.0,Master,Married,1,0.46,0
+CL047,43,36047.0,Bachelor,Married,1,0.03,0
+CL048,50,20797.0,Master,Single,1,0.88,1
+CL049,32,47411.0,Bachelor,Single,0,0.01,0
+CL050,35,62911.0,Bachelor,Married,0,0.94,1
+CL051,43,61851.0,Bachelor,Single,1,0.49,0
+CL052,32,62688.0,High School,Married,0,0.34,0
+CL053,43,34601.0,Bachelor,Married,1,0.92,1
+CL054,45,74457.0,Bachelor,Single,2,0.02,0
+CL055,21,64313.0,Bachelor,Married,0,0.58,1
+CL056,35,73195.0,High School,Married,1,0.55,0
+CL057,57,25930.0,High School,Married,0,0.22,0
+CL058,65,65607.0,PhD,Single,0,0.43,1
+CL059,20,38620.0,Bachelor,Single,1,0.65,0
+CL060,68,52848.0,High School,Married,0,0.73,1
+CL061,30,69619.0,Bachelor,Single,0,0.0,0
+CL062,54,61640.0,Bachelor,Married,0,0.94,1
+CL063,62,44672.0,Master,Single,1,0.16,1
+CL064,48,60113.0,High School,Married,1,0.23,1
+CL065,56,32432.0,High School,Single,0,0.26,0
+CL066,36,80705.0,Master,Married,1,0.04,0
+CL067,58,56305.0,High School,Single,0,0.12,0
+CL068,61,80134.0,High School,Married,0,0.99,1
+CL069,47,50522.0,PhD,Single,0,0.32,0
+CL070,48,50576.0,Bachelor,Married,0,0.12,0
+CL071,62,46245.0,High School,Single,1,0.11,0
+CL072,22,75771.0,High School,Married,1,0.72,0
+CL073,29,47230.0,High School,Married,0,0.85,0
+CL074,61,71603.0,High School,Single,0,0.26,1
+CL075,33,53116.0,Master,Married,0,0.02,0
+CL076,31,24433.0,Bachelor,Single,0,0.22,0
+CL077,66,49734.0,Master,Married,0,0.06,0
+CL078,61,38776.0,PhD,Married,1,0.1,0
+CL079,49,60610.0,Bachelor,Single,0,0.43,0
+CL080,51,38573.0,High School,Single,1,0.23,0
+CL081,51,76668.0,Bachelor,Single,1,0.52,1
+CL082,61,58361.0,PhD,Married,1,0.25,1
+CL083,51,56803.0,Master,Single,1,0.94,1
+CL084,45,71806.0,High School,Married,1,0.91,1
+CL085,20,77350.0,Bachelor,Married,0,0.57,1
+CL086,61,59638.0,Bachelor,Married,0,0.35,0
+CL087,21,46118.0,PhD,Single,0,0.38,1
+CL088,36,28069.0,High School,Married,1,0.41,0
+CL089,49,47651.0,Bachelor,Married,1,0.73,1
+CL090,58,48890.0,Master,Married,1,0.45,1
+CL091,26,61927.0,Bachelor,Single,2,0.86,1
+CL092,46,53787.0,Bachelor,Single,1,0.94,1
+CL093,28,72383.0,High School,Single,0,0.34,0
+CL094,41,48966.0,High School,Married,0,0.56,0
+CL095,53,58973.0,Bachelor,Single,0,0.1,1
+CL096,65,81312.0,PhD,Married,1,0.2,1
+CL097,68,66153.0,High School,Single,0,0.41,0
+CL098,20,58919.0,Bachelor,Married,0,0.21,0
+CL099,28,49165.0,Bachelor,Married,2,0.88,1
+CL100,39,48602.0,High School,Married,1,0.16,0
+CL101,38,44689.0,Bachelor,Single,0,0.46,0
+CL102,55,50262.0,Master,Single,0,0.61,1
+CL103,59,73602.0,Master,Single,0,0.69,1
+CL104,64,56006.0,Bachelor,Single,1,0.38,1
+CL105,23,35704.0,Bachelor,Married,1,0.87,1
+CL106,28,91827.0,High School,Married,0,0.57,1
+CL107,60,65759.0,PhD,Married,0,0.44,1
+CL108,41,34675.0,High School,Single,2,0.07,0
+CL109,37,52047.0,Master,Married,0,0.46,1
+CL110,31,61996.0,High School,Married,1,0.82,1
+CL111,61,90683.0,PhD,Married,0,0.61,1
+CL112,62,40054.0,Master,Single,1,0.83,1
+CL113,58,77569.0,Master,Married,1,0.49,1
+CL114,28,85191.0,High School,Married,0,0.12,1
+CL115,25,48684.0,Bachelor,Married,1,0.01,0
+CL116,38,55005.0,Bachelor,Married,1,0.3,0
+CL117,67,41346.0,Master,Single,1,0.7,1
+CL118,66,56338.0,High School,Single,0,0.79,0
+CL119,26,59341.0,PhD,Married,0,0.3,1
+CL120,35,71874.0,Master,Married,0,0.5,0
+CL121,24,79623.0,High School,Single,1,0.42,0
+CL122,35,46534.0,Master,Married,0,0.41,0
+CL123,20,24588.0,Bachelor,Married,0,0.23,0
+CL124,56,59618.0,Bachelor,Married,0,0.14,0
+CL125,58,65284.0,Bachelor,Single,2,0.2,1
+CL126,38,64490.0,Bachelor,Married,1,0.06,0
+CL127,56,54120.0,Master,Married,0,0.2,0
+CL128,36,62246.0,Bachelor,Married,1,0.01,1
+CL129,45,87278.0,Bachelor,Married,1,0.63,1
+CL130,41,66871.0,Bachelor,Married,0,0.32,1
+CL131,27,53279.0,Master,Married,2,0.97,1
+CL132,52,50996.0,High School,Single,0,0.19,0
+CL133,21,56943.0,Master,Married,0,0.35,0
+CL134,49,89461.0,Bachelor,Married,2,0.36,1
+CL135,66,56701.0,High School,Single,0,0.01,0
+CL136,39,59644.0,High School,Married,1,0.84,1
+CL137,37,51318.0,Bachelor,Married,0,0.03,0
+CL138,62,79782.0,Master,Married,0,0.94,1
+CL139,29,95277.0,Bachelor,Single,0,0.89,1
+CL140,43,68111.0,Master,Married,0,0.54,0
+CL141,23,61490.0,High School,Single,0,0.54,0
+CL142,56,60662.0,Bachelor,Single,0,0.65,1
+CL143,23,17082.0,PhD,Married,1,0.39,0
+CL144,32,73413.0,Master,Married,0,0.65,1
+CL145,44,62415.0,High School,Married,0,0.04,0
+CL146,32,67710.0,Bachelor,Single,0,0.05,0
+CL147,37,47194.0,High School,Married,0,0.46,0
+CL148,43,53080.0,Bachelor,Single,0,0.55,0
+CL149,21,52602.0,Master,Married,0,0.89,0
+CL150,67,78389.0,Master,Married,2,0.1,1
+CL151,52,53182.0,High School,Married,1,0.82,1
+CL152,38,97488.0,PhD,Single,0,0.21,0
+CL153,28,67756.0,Bachelor,Single,1,0.39,0
+CL154,47,37038.0,Bachelor,Married,1,0.32,0
+CL155,54,57686.0,Bachelor,Single,0,0.4,1
+CL156,58,48270.0,Bachelor,Married,0,0.15,1
+CL157,29,20501.0,Bachelor,Married,0,0.5,0
+CL158,20,88790.0,Bachelor,Single,1,0.8,1
+CL159,61,72657.0,Bachelor,Married,1,0.44,0
+CL160,40,69598.0,High School,Married,1,0.49,0
+CL161,28,62977.0,Master,Single,1,0.85,0
+CL162,66,35124.0,Bachelor,Single,0,0.71,1
+CL163,34,51295.0,High School,Single,0,0.49,0
+CL164,54,75152.0,Master,Married,2,0.26,1
+CL165,24,41078.0,PhD,Married,0,0.88,0
+CL166,60,14428.0,PhD,Single,1,0.58,0
+CL167,41,55912.0,Bachelor,Single,1,0.22,1
+CL168,60,57448.0,High School,Married,0,0.27,0
+CL169,42,62440.0,Bachelor,Married,1,0.8,1
+CL170,26,73113.0,High School,Married,0,0.04,0
+CL171,42,71477.0,PhD,Single,0,0.99,1
+CL172,63,64658.0,High School,Single,1,0.13,1
+CL173,44,81520.0,High School,Married,1,0.8,1
+CL174,46,32659.0,Bachelor,Married,0,0.39,0
+CL175,60,69082.0,Bachelor,Single,2,0.49,1
+CL176,25,71278.0,Master,Married,1,0.88,1
+CL177,53,37688.0,Bachelor,Married,0,0.41,0
+CL178,28,32948.0,High School,Married,2,0.54,1
+CL179,68,46573.0,High School,Single,0,0.05,0
+CL180,52,48092.0,Bachelor,Married,0,0.0,0
+CL181,25,73562.0,High School,Married,0,0.24,0
+CL182,56,48938.0,Bachelor,Married,0,0.68,0
+CL183,50,44586.0,Bachelor,Single,1,0.12,0
+CL184,53,48991.0,Master,Single,1,0.11,1
+CL185,60,80135.0,PhD,Single,0,0.41,1
+CL186,48,60235.0,PhD,Married,0,0.65,1
+CL187,33,56773.0,PhD,Single,0,0.71,1
+CL188,55,58020.0,High School,Married,0,0.18,0
+CL189,55,83257.0,High School,Single,1,0.08,0
+CL190,34,46515.0,Bachelor,Married,1,0.94,1
+CL191,27,83679.0,Master,Married,1,0.26,1
+CL192,45,63789.0,PhD,Single,1,0.85,1
+CL193,55,57112.0,Master,Single,2,0.86,1
+CL194,67,105016.0,High School,Single,0,0.77,1
+CL195,40,40998.0,PhD,Married,0,0.17,0
+CL196,47,53634.0,Bachelor,Married,1,0.82,0
+CL197,23,37816.0,High School,Single,0,0.77,0
+CL198,35,77144.0,Bachelor,Married,0,0.6,0
+CL199,41,90405.0,High School,Single,0,0.34,1
+CL200,31,90059.0,Bachelor,Single,1,0.26,1
